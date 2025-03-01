@@ -1,10 +1,26 @@
-# 📖 Rêveries de noir et de blanc – Fine Art Photography Book
+# 📖 Rêveries – Fine Art Photography Book
 
 Welcome! This page contains the digital reference edition of *Rêveries*, a fine art photography book.
 
 From capture to print to your eyes, I do my utmost to ensure that every photon counts, that my prints reveal scenes where light comes alive and awakens deep emotion. This project draws on all my knowledge and expertise. Art, technique and craftsmanship come together in a quest where time itself becomes raw material.
 Yes, this project was born of the incredible stability of carbon pigment inks. Just imagine: over 400 years of permanence. That's all it took to unite everything around this phenomenal characteristic.
 In my opinion, you don't put something that can last for centuries in a biodegradable bag in a few months. Hence, the idea of a book, its covers and its box, made of noble materials, hand-crafted with great care: a companion, an accomplice, a messenger of time itself.
+
+Exposition
+ETTR (Expose To The Right) permet de capturer un maximum de photons et d’optimiser le rapport signal/bruit (SNR).
+🔗 En savoir plus sur l’ETTR (explication détaillée et implications techniques).
+Développement & Conversion RAW
+Développement en référence à la scène (scene-referred) pour garantir une conversion fidèle aux données brutes du capteur.
+Utilisation d’une LUT 3D issue d’un fichier "maître" ColorChecker in situ pour assurer une correction colorimétrique précise (ΔE00 < 2).
+🔗 DCRaw – Développement RAW en référence à la scène
+🔗 Darktable – Workflow scene-referred
+🔗 RawTherapee – Gestion avancée des couleurs et profils ICC
+Post-traitement
+📌 Un milliard de photos sont prises chaque jour. Une seule recommandation :
+🚀 Soyez créatif.
+
+Tirages
+... (Texte à compléter selon ta vision du tirage et de l'impression fine art.)
 
 
 
