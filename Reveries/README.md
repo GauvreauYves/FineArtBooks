@@ -1,6 +1,12 @@
 # 📖 Rêveries de noir et de blanc – Fine Art Photography Book
 
-Welcome! This page contains the digital reference edition of *Rêveries de noir et de blanc*, a fine art photography book.
+Welcome! This page contains the digital reference edition of *Rêveries*, a fine art photography book.
+
+From capture to print to your eyes, I do my utmost to ensure that every photon counts, that my prints reveal scenes where light comes alive and awakens deep emotion. This project draws on all my knowledge and expertise. Art, technique and craftsmanship come together in a quest where time itself becomes raw material.
+Yes, this project was born of the incredible stability of carbon pigment inks. Just imagine: over 400 years of permanence. That's all it took to unite everything around this phenomenal characteristic.
+In my opinion, you don't put something that can last for centuries in a biodegradable bag in a few months. Hence, the idea of a book, its covers and its box, made of noble materials, hand-crafted with great care: a companion, an accomplice, a messenger of time itself.
+
+
 
 ## 📥 Download the Digital Edition
 [Click here to download the PDF](https://github.com/GauvreauYves/FineArtBooks/raw/main/Reveries/pdf/ReveriesBilingue_v1.0_2025-02.pdf)
