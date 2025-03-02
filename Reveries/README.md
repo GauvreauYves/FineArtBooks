@@ -5,7 +5,7 @@ This page contains the digital reference edition of *Rêveries*, a fine art phot
 ## About This Project
 From capture to print, I do my utmost to ensure that every photon counts, that my prints reveal scenes where light takes form and evokes deep emotion. This project draws on all my knowledge and expertise. Art, technique, and craftsmanship come together in a quest where time itself becomes raw material.  
 
-This project was born out of the incredible stability of carbon pigment inks. Just imagine: over 400 years of permanence. That alone was enough to align everything around this fundamental characteristic. You don’t put something that can last centuries in a biodegradable bag that decomposes in months. Hence, the idea of a book, its covers, and its archival box, made of noble materials, handcrafted with great care—A companion, an accomplice, a messenger of time itself.  
+This project was born out of the incredible stability of carbon pigment inks. Just imagine: over 400 years of permanence. That alone was enough to align everything around this fundamental characteristic. You don’t put something that can last centuries in a biodegradable bag that decomposes in months. Hence, the idea of a book, its covers, and its archival box, made of noble and archival materials, handcrafted with great care—A companion, an accomplice, a messenger of time itself.  
 
 ---
 
