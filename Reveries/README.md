@@ -2,6 +2,9 @@
 
 This page contains the digital reference edition of *Rêveries*, a fine art photography book.
 
+## 50K-Foot Overview
+This is a high-level summary of my workflow, covering exposure, RAW development, printing, and archival longevity. It does not contain in-depth explanations, but links are provided for those who wish to explore further.
+
 ## About This Project
 From capture to print, I do my utmost to ensure that every photon counts, that my prints reveal scenes where light takes form and evokes deep emotion. This project draws on all my knowledge and expertise. Art, technique, and craftsmanship come together in a quest where time itself becomes raw material.  
 
