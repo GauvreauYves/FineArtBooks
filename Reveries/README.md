@@ -5,32 +5,32 @@ This page contains the digital reference edition of *Rêveries*, a fine art phot
 ## 50K-Foot Overview
 This is a high-level summary of my workflow, covering exposure, RAW development, printing, and archival longevity. Links are provided for further exploration.
 
-<p align="center">━━━━━━━━</p>
+
 
 ## About This Project
 From capture to print, I ensure that every photon counts. Light takes form, evokes deep emotion, and is preserved in a book crafted with care.
 This project was born from the stability of carbon pigment inks—lasting over 400 years. You don’t place something designed to endure in a disposable container. Hence, a book, its covers, and its archival box, made of noble and archival materials—A companion, an accomplice, a messenger of time itself.
 
-<p align="center">━━━━━━━━</p>
+
 
 ## Exposure
 ETTR (Expose To The Right) maximizes captured photons and optimizes the signal-to-noise ratio (SNR).  
 [Learn more about ETTR](https://en.wikipedia.org/wiki/Exposing_to_the_right) |  
 [RawDigger – Calibrating exposure for dynamic range](https://www.rawdigger.com/howtouse/calibrate-exposure-meter-to-improve-dynamic-range)
 
-<p align="center">━━━━━━━━</p>
+
 
 ## RAW Development & Conversion
 Scene-referred development preserves raw sensor data without artificial adjustments. A 3D LUT from a ColorChecker ensures color accuracy (ΔE00 < 2).  
 [Scene-referred vs. Display-referred](https://ninedegreesbelow.com/photography/display-referred-scene-referred.html) |  
 [Darktable – Scene-referred workflow](https://docs.darktable.org/usermanual/3.6/en/overview/workflow/edit-scene-referred/)
 
-<p align="center">━━━━━━━━</p>
+
 
 ## Post-Processing
 A billion photos are taken every day. You want to stand out? Be creative.
 
-<p align="center">━━━━━━━━</p>
+
 
 # Printing
 
@@ -51,7 +51,7 @@ I use ColorThink Pro and GamutVision to analyze gamut, black & white points, and
 With my i1 Pro, I create ICC profiles for each paper using i1Profiler. I also use ArgyllCMS for device link profiles, mapping colors from my image masters to the paper’s gamut while preserving color appearance.  
 [ArgyllCMS](https://www.argyllcms.com/)
 
-<p align="center">━━━━━━━━</p>
+
 
 ## Black & White Printing
 
@@ -65,7 +65,7 @@ For even finer control, QuadTone RIP enables precise multi-ink B&W printing.
 
 A perfectly neutral and linear grayscale print is the foundation. Giving it soul is up to you.
 
-<p align="center">━━━━━━━━</p>
+
 
 ## Print Longevity – Epson SureColor P700 & Carbon-Based Inks
 
@@ -73,6 +73,6 @@ I chose the Epson SureColor P700 for its carbon-based pigment inks and their ext
 
 For true archival permanence, see Table 2 in the Wilhelm Imaging Research report, detailing the P700's lifespan. B&W prints exceed 400 years; color prints last over 200 under proper conditions.  
 [Wilhelm Imaging Research – Epson SureColor P700 & P900](https://www.wilhelm-research.com/epson/WIR_Epson_SureColor_P700_and_P900_Printers_2021_07_23.pdf)
-<p align="center">━━━━━━━━</p>
+
 
 By eliminating OBAs and using calibrated carbon-based inks, my prints are built to endure.
