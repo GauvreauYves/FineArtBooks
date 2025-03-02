@@ -2,7 +2,7 @@
 
 This page contains the digital reference edition of *Rêveries*, a fine art photography book, and an overview of my workflow.
 
-## 35,000 feet Overview
+## 35,000-Foot Overview
 This is a high-level summary of my workflow, covering exposure, RAW development, printing, and archival longevity. Links are provided for further exploration.
 
 
@@ -34,7 +34,7 @@ A billion+ photos are taken every day. If you want to stand out, be creative, an
 
 # Printing
 
-Just as my development process is meticulously calibrated, my printing process is equally refined. My printing follows industry standards practice. I started by finding the best possible printer, inks and paper for this project. 
+Just as my development process is meticulously calibrated, my printing process is equally refined. My printing follows industry best practices. I started by finding the best possible printer, inks and paper for this project. 
 
 [ICC White Papers](https://www.color.org/whitepapers.xalter)
 
@@ -71,11 +71,11 @@ A perfectly neutral and linear grayscale print is the foundation. Giving it a so
 
 I chose the Epson SureColor P700 for its carbon-based pigment inks and their extraordinary longevity.
 
-For specific performance data on using the Epson ABW mode on the P700, see Table 2 in the Wilhelm Imaging Research report. B&W prints exceed 400 years, under proper conditions, a book totally shields the prints from light, especially it in a box on top of that.  
+For specific performance data on using the Epson ABW mode on the P700, see Table 2 in the Wilhelm Imaging Research report. B&W prints exceed 400 years, under proper conditions, a book fully shields the prints from light—especially when stored in a box.  
 [Wilhelm Imaging Research – Epson SureColor P700 & P900](https://www.wilhelm-research.com/epson/WIR_Epson_SureColor_P700_and_P900_Printers_2021_07_23.pdf)
 
 
-My prints made from a calibrated process using carbon-based pigment inks, and a [ISO9706](https://cdn.standards.iteh.ai/samples/17562/34a23f9c75e44bc0a5b582d3f3608d35/ISO-9706-1994.pdf) conform / museum quality for highest age resistance rated paper, my prints are made to last very long time. 
+My prints are created using a calibrated process with carbon-based pigment inks and [ISO 9706-compliant](https://cdn.standards.iteh.ai/samples/17562/34a23f9c75e44bc0a5b582d3f3608d35/ISO-9706-1994.pdf), museum-quality paper—ensuring the highest age resistance. They are made to last.
 
 ## Final Thoughts  
 
