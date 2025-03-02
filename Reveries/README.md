@@ -2,7 +2,10 @@
 
 This page contains the digital reference edition of *Rêveries*, a fine art photography book.
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+<p align="center">━━━━━</p>
+<p align="center">━━━━━━━━</p>
+<p align="center">━━━━━━━━━━━━━</p>
+
 
 ## About This Project
 From capture to print, I ensure that every photon counts...
