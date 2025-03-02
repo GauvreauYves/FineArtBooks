@@ -3,74 +3,76 @@
 This page contains the digital reference edition of *Rêveries*, a fine art photography book.
 
 ## 50K-Foot Overview
-This is a high-level summary of my workflow, covering exposure, RAW development, printing, and archival longevity. It does not contain in-depth explanations, but links are provided for those who wish to explore further.
+This is a high-level summary of my workflow, covering exposure, RAW development, printing, and archival longevity. Links are provided for further exploration.
+
+⬛  
 
 ## About This Project
-From capture to print, I do my utmost to ensure that every photon counts, that my prints reveal scenes where light takes form and evokes deep emotion. This project draws on all my knowledge and expertise. Art, technique, and craftsmanship come together in a quest where time itself becomes raw material.  
+From capture to print, I ensure that every photon counts. Light takes form, evokes deep emotion, and is preserved in a book crafted with care.  
 
-This project was born out of the incredible stability of carbon pigment inks. Just imagine: over 400 years of permanence. That alone was enough to align everything around this fundamental characteristic. You don’t put something that can last centuries in a biodegradable bag that decomposes in months. Hence, the idea of a book, its covers, and its archival box, made of noble and archival materials, handcrafted with great care—A companion, an accomplice, a messenger of time itself.  
+This project was born from the stability of carbon pigment inks—lasting over 400 years. You don’t place something designed to endure in a disposable container. Hence, a book, its covers, and its archival box, made of noble and archival materials—A companion, an accomplice, a messenger of time itself.
 
----
+⬛  
 
 ## Exposure
-ETTR (Expose To The Right) helps capture the maximum number of photons and optimize the signal-to-noise ratio (SNR).  
-[Wikipedia – Learn more about ETTR](https://en.wikipedia.org/wiki/Exposing_to_the_right) |  
-[RawDigger – Calibrating exposure to improve dynamic range](https://www.rawdigger.com/howtouse/calibrate-exposure-meter-to-improve-dynamic-range)  
+ETTR (Expose To The Right) maximizes captured photons and optimizes the signal-to-noise ratio (SNR).  
+[Learn more about ETTR](https://en.wikipedia.org/wiki/Exposing_to_the_right) |  
+[RawDigger – Calibrating exposure for dynamic range](https://www.rawdigger.com/howtouse/calibrate-exposure-meter-to-improve-dynamic-range)
 
----
+⬛  
 
 ## RAW Development & Conversion
-Scene-referred development ensures a faithful conversion of the raw sensor data. A 3D LUT derived from the capture of a ColorChecker in situ ensures precise color and luminance correction (ΔE00 < 2).  
-[Nine Degrees Below – Scene-referred vs. Display-referred](https://ninedegreesbelow.com/photography/display-referred-scene-referred.html) |  
-[Darktable – Scene-referred workflow](https://docs.darktable.org/usermanual/3.6/en/overview/workflow/edit-scene-referred/)  
+Scene-referred development preserves raw sensor data without artificial adjustments. A 3D LUT from a ColorChecker ensures color accuracy (ΔE00 < 2).  
+[Scene-referred vs. Display-referred](https://ninedegreesbelow.com/photography/display-referred-scene-referred.html) |  
+[Darktable – Scene-referred workflow](https://docs.darktable.org/usermanual/3.6/en/overview/workflow/edit-scene-referred/)
 
----
+⬛  
 
 ## Post-Processing
-A billion photos are taken every day. You want to stand out? Be creative, and especially make your image unique.  
+A billion photos are taken every day. You want to stand out? Be creative.
 
----
+⬛  
 
 # Printing
 
-Just as my development process is meticulously calibrated, my printing process is equally refined. My approach to printing aligns with industry standards, with one key difference: I am both the printer and the client.  
-[Color Management Standards – ICC White Papers](https://www.color.org/whitepapers.xalter)  
+Printing follows industry standards—except I am both the printer and the client.  
+[ICC White Papers](https://www.color.org/whitepapers.xalter)
 
 ### ICC Profiling & Paper Selection
 
-I create my own ICC profiles using an i1 Pro 2 spectrophotometer.  
-[i1 Pro 2 – X-Rite](https://www.xrite.com/categories/calibration-profiling/i1photo-pro-2)  
+I create ICC profiles using an i1 Pro 2 spectrophotometer.  
+[i1 Pro 2 – X-Rite](https://www.xrite.com/categories/calibration-profiling/i1photo-pro-2)
 
-I dismiss papers containing Optical Brightening Agents (OBAs). OBAs artificially enhance brightness by absorbing ultraviolet light and re-emitting it in the blue spectrum. While this can make a print appear more vibrant under certain lighting conditions, OBAs degrade over time, leading to unpredictable color shifts. For archival-quality prints, OBAs are not an option. However, for short-term display purposes—such as exhibitions or commercial presentations—papers with OBAs, like Epson Velvet Fine Art, can be an excellent choice. Since my goal is long-term stability, I exclude OBAs from my workflow.  
+I dismiss papers containing Optical Brightening Agents (OBAs). While they enhance brightness under certain lighting conditions, OBAs degrade over time, causing color shifts. For short-term displays, they can work. For archival prints, I avoid them.  
 
-I use ColorThink Pro and GamutVision to analyze gamut, black & white points, and other critical characteristics before finalizing my paper choice.  
+I use ColorThink Pro and GamutVision to analyze gamut, black & white points, and other critical characteristics.  
 [ColorThink Pro](https://www.chromix.com/colorthink/#overview) |  
-[GamutVision](http://www.gamutvision.com/modules.php?name=Download)  
+[GamutVision](http://www.gamutvision.com/modules.php?name=Download)
 
-Using my i1 Pro, I create custom ICC profiles for every paper with i1Profiler. I also use ArgyllCMS for advanced profiling tasks, such as creating device link profiles to intelligently map the colors of my image master files to the paper’s gamut while preserving color appearance as accurately as possible.  
-[ArgyllCMS](https://www.argyllcms.com/)  
+With my i1 Pro, I create ICC profiles for each paper using i1Profiler. I also use ArgyllCMS for device link profiles, mapping colors from my image masters to the paper’s gamut while preserving color appearance.  
+[ArgyllCMS](https://www.argyllcms.com/)
 
----
+⬛  
 
-### Black & White Printing – A Unique Challenge
+### Black & White Printing
 
-Most printers are essentially RGB-based. Even in dedicated B&W print modes, the printer still uses color inks for toning adjustments, unless specifically controlled. Printer manufacturers optimize their B&W modes for their own branded papers, meaning third-party papers often lack ICC profiles for B&W printing mode.  
+Most printers are RGB-based. Even in B&W modes, they often use color inks. Printer manufacturers optimize for their own papers, leaving third-party papers without ICC profiles for B&W.  
 
-I create B&W-specific ICC profiles using ABWProfileMaker, ensuring that the printer’s B&W mode is fully optimized for neutral grayscale reproduction.  
+I create B&W-specific ICC profiles with ABWProfileMaker, optimizing the printer’s B&W mode for neutral grayscale.  
 [ABW Profile Maker (GitHub)](https://github.com/doug3236/ABWProfilePatches)  
 
-This method provides full control over tonal linearity, resulting in archival-quality grayscale prints. For those seeking even further refinement, QuadTone RIP enables precise control over multi-ink B&W printing.  
-[QuadTone RIP](http://www.quadtonerip.com/)  
+For even finer control, QuadTone RIP enables precise multi-ink B&W printing.  
+[QuadTone RIP](http://www.quadtonerip.com/)
 
-A perfectly neutral and linear grayscale print is the foundation. Giving it soul is up to you.  
+A perfectly neutral and linear grayscale print is the foundation. Giving it soul is up to you.
 
----
+⬛  
 
-## Print Longevity – Epson SureColor P700 & Carbon-Based Inks  
+## Print Longevity – Epson SureColor P700 & Carbon-Based Inks
 
-One of the primary reasons I chose the Epson SureColor P700 is its use of carbon-based pigment inks, offering extraordinary longevity.  
+I chose the Epson SureColor P700 for its carbon-based pigment inks and their extraordinary longevity.
 
-For true archival permanence, see Table 2 in the Wilhelm Imaging Research report, which details the exceptional lifespan of the P700's carbon-based inks. B&W prints can last over 400 years, while color prints exceed 200 years under proper conditions.  
-[Wilhelm Imaging Research – Epson SureColor P700 & P900 Permanence Report](https://www.wilhelm-research.com/epson/WIR_Epson_SureColor_P700_and_P900_Printers_2021_07_23.pdf)  
+For true archival permanence, see Table 2 in the Wilhelm Imaging Research report, detailing the P700's lifespan. B&W prints exceed 400 years; color prints last over 200 under proper conditions.  
+[Wilhelm Imaging Research – Epson SureColor P700 & P900](https://www.wilhelm-research.com/epson/WIR_Epson_SureColor_P700_and_P900_Printers_2021_07_23.pdf)
 
-By eliminating OBAs and using custom-calibrated carbon-based pigment inks, I ensure my prints are built to endure for centuries.  
+By eliminating OBAs and using calibrated carbon-based inks, my prints are built to endure.
