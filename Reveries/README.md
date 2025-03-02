@@ -1,78 +1,79 @@
-# Rêveries – Fine Art Photography Book
+# ***« Rêveries »*** – Fine Art Photography Book
 
 This page contains the digital reference edition of *Rêveries*, a fine art photography book.
 
-## 50K-Foot Overview
-This is a high-level summary of my workflow, covering exposure, RAW development, printing, and archival longevity. Links are provided for further exploration.
+━━━━━━━━━━━━━━━━
 
+**About This Project**
 
+From capture to print, I make every photon count, ensuring my prints reveal scenes where light comes to life and evokes deep emotion.
 
-## About This Project
-From capture to print, I ensure that every photon counts. Light takes form, evokes deep emotion, and is preserved in a book crafted with care.
-This project was born from the stability of carbon pigment inks—lasting over 400 years. You don’t place something designed to endure in a disposable container. Hence, a book, its covers, and its archival box, made of noble and archival materials—A companion, an accomplice, a messenger of time itself.
+This project embodies all my knowledge and expertise. Art, technique, and craftsmanship come together in a quest where time itself becomes raw material.
 
+Yes, this project was born from the incredible stability of carbon pigment inks. Imagine: over 400 years of permanence. That was enough to align everything around this phenomenal characteristic.
 
+To me, you don’t put content capable of lasting centuries in a biodegradable bag that vanishes in months. Hence, the idea of a book, its covers, and its archival case—made of noble and archival materials, handcrafted with meticulous care—a companion, a witness, a messenger of time itself.
 
-## Exposure
-ETTR (Expose To The Right) maximizes captured photons and optimizes the signal-to-noise ratio (SNR).  
-[Learn more about ETTR](https://en.wikipedia.org/wiki/Exposing_to_the_right) |  
-[RawDigger – Calibrating exposure for dynamic range](https://www.rawdigger.com/howtouse/calibrate-exposure-meter-to-improve-dynamic-range)
+━━━━━━━━━━━━━━━━
 
+**50,000-Foot Workflow Overview**
 
+This is a high-level overview of my workflow, without detailed explanations.
 
-## RAW Development & Conversion
-Scene-referred development preserves raw sensor data without artificial adjustments. A 3D LUT from a ColorChecker ensures color accuracy (ΔE00 < 2).  
-[Scene-referred vs. Display-referred](https://ninedegreesbelow.com/photography/display-referred-scene-referred.html) |  
-[Darktable – Scene-referred workflow](https://docs.darktable.org/usermanual/3.6/en/overview/workflow/edit-scene-referred/)
+**Exposure**  
+- *Expose To The Right (ETTR)* maximizes captured photons, optimizing the signal-to-noise ratio (SNR).  
+- [Calibrating exposure for optimal dynamic range](https://www.rawdigger.com/howtouse/calibrate-exposure-meter-to-improve-dynamic-range)
 
+**RAW Development & Conversion**  
+- Scene-referred workflow for accurate RAW conversion.  
+- Custom 3D LUT from an *in-situ* ColorChecker ensures precise color correction (ΔE00 < 2).  
+- [DCRaw – Scene-referred RAW development](https://www.guillermoluijk.com/tutorial/dcraw/index_en.htm)  
+- [Ansel – Scene-referred workflow](https://ansel.photos/en/workflows/scene-referred/)  
+- [Display-referred vs. scene-referred](https://ninedegreesbelow.com/photography/display-referred-scene-referred.html)
 
+**Post-Processing**  
+A billion photos are taken every day. You want to stand out? Be creative, and especially make your image unique.
 
-## Post-Processing
-A billion photos are taken every day. You want to stand out? Be creative.
+━━━━━━━━━━━━━━━━
 
+**Printing**
 
+Just as my development process is calibrated, my printing process is just as well thought out.
 
-# Printing
+My approach follows the best practices used in the printing industry—except that I am both the printer and the client.
 
-Printing follows industry standards—except I am both the printer and the client.  
-[ICC White Papers](https://www.color.org/whitepapers.xalter)
+- [ICC Profile creation process](https://www.color.org/whitepapers.xalter)  
+- I create my own ICC profiles using an i1 Pro 2 spectrophotometer. [X-Rite i1Photo Pro 2](https://www.xrite.com/categories/calibration-profiling/i1photo-pro-2)  
+- **Paper selection**: I purchase sample packs to get a physical feel of the paper and download the manufacturer's ICC profiles for my printer.  
+- I analyze gamut and tonal range using [ColorThink Pro](https://www.chromix.com/colorthink/#overview) and [GamutVision](http://www.gamutvision.com/modules.php?name=Download).  
 
-### ICC Profiling & Paper Selection
+**B&W Printing**  
+B&W printing requires a different approach.  
+- Most printers operate in RGB, meaning they use a mix of inks—even in so-called B&W print modes.  
+- Manufacturers provide B&W modes that stabilize results by minimizing color ink usage, but they are typically optimized for their own papers.  
+- To take control, I create my own B&W ICC profiles:  
+  - [ABWProfileMaker](https://github.com/doug3236/ABWProfilePatches)  
 
-I create ICC profiles using an i1 Pro 2 spectrophotometer.  
-[i1 Pro 2 – X-Rite](https://www.xrite.com/categories/calibration-profiling/i1photo-pro-2)
+This ensures perfect linearity, keeping tones predictable and controlled. However, true neutrality is difficult to achieve; I work within Just Noticeable Difference (JND) thresholds.
 
-I dismiss papers containing Optical Brightening Agents (OBAs). While they enhance brightness under certain lighting conditions, OBAs degrade over time, causing color shifts. For short-term displays, they can work. For archival prints, I avoid them.  
+For advanced control, I also use [QuadTone RIP](http://www.quadtonerip.com/).
 
-I use ColorThink Pro and GamutVision to analyze gamut, black & white points, and other critical characteristics.  
-[ColorThink Pro](https://www.chromix.com/colorthink/#overview) |  
-[GamutVision](http://www.gamutvision.com/modules.php?name=Download)
+A perfectly neutral ***and linear*** grayscale print is the foundation. Beyond that, it’s up to you to give it soul.
 
-With my i1 Pro, I create ICC profiles for each paper using i1Profiler. I also use ArgyllCMS for device link profiles, mapping colors from my image masters to the paper’s gamut while preserving color appearance.  
-[ArgyllCMS](https://www.argyllcms.com/)
+━━━━━━━━━━━━━━━━
 
+**Paper & Longevity**  
 
+I dismiss papers containing Optical Brightening Agents (OBAs). While OBAs make prints appear brighter in the short term, my goal is long-term permanence.
 
-## Black & White Printing
+For archival properties, I refer to [Wilhelm Research](https://wilhelm-research.com/) for independent longevity testing.
 
-Most printers are RGB-based. Even in B&W modes, they often use color inks. Printer manufacturers optimize for their own papers, leaving third-party papers without ICC profiles for B&W.  
+The second table in the [Wilhelm report for Epson P700](https://wilhelm-research.com/Epson/P700.html) is worth noting—one of the main reasons I chose this printer with its carbon-based inks.
 
-I create B&W-specific ICC profiles with ABWProfileMaker, optimizing the printer’s B&W mode for neutral grayscale.  
-[ABW Profile Maker (GitHub)](https://github.com/doug3236/ABWProfilePatches)  
+━━━━━━━━━━━━━━━━
 
-For even finer control, QuadTone RIP enables precise multi-ink B&W printing.  
-[QuadTone RIP](http://www.quadtonerip.com/)
+**Final Thoughts**  
 
-A perfectly neutral and linear grayscale print is the foundation. Giving it soul is up to you.
+A print isn’t just ink on paper; it’s the culmination of a process, an intention, and an experience.
 
-
-
-## Print Longevity – Epson SureColor P700 & Carbon-Based Inks
-
-I chose the Epson SureColor P700 for its carbon-based pigment inks and their extraordinary longevity.
-
-For true archival permanence, see Table 2 in the Wilhelm Imaging Research report, detailing the P700's lifespan. B&W prints exceed 400 years; color prints last over 200 under proper conditions.  
-[Wilhelm Imaging Research – Epson SureColor P700 & P900](https://www.wilhelm-research.com/epson/WIR_Epson_SureColor_P700_and_P900_Printers_2021_07_23.pdf)
-
-
-By eliminating OBAs and using calibrated carbon-based inks, my prints are built to endure.
+The pursuit of perfection in printing is never-ending, but the goal is not just technical accuracy. The print must *live* and *breathe*.
