@@ -3,15 +3,10 @@
 This page contains the digital reference edition of *Rêveries*, a fine art photography book.
 
 ## About This Project
-From capture to print, I do my utmost to ensure that every photon counts, that my prints reveal scenes where light takes form and evokes deep emotion.  
-This project draws on all my knowledge and expertise. Art, technique, and craftsmanship come together in a quest where time itself becomes raw material.  
+From capture to print, I do my utmost to ensure that every photon counts, that my prints reveal scenes where light takes form and evokes deep emotion. This project draws on all my knowledge and expertise. Art, technique, and craftsmanship come together in a quest where time itself becomes raw material.  
 
 This project was born out of the incredible stability of carbon pigment inks.  
-Just imagine: over 400 years of permanence. That alone was enough to align everything around this fundamental characteristic.  
-
-You don’t put something that can last centuries in a biodegradable bag that decomposes in months.  
-Hence, the idea of a book, its covers, and its archival box, made of noble materials, handcrafted with great care—  
-A companion, an accomplice, a messenger of time itself.  
+Just imagine: over 400 years of permanence. That alone was enough to align everything around this fundamental characteristic. You don’t put something that can last centuries in a biodegradable bag that decomposes in months. Hence, the idea of a book, its covers, and its archival box, made of noble and archival materials, handcrafted with great care, a companion, an accomplice, a messenger of time itself.  
 
 ---
 
@@ -24,7 +19,7 @@ ETTR (Expose To The Right) helps capture the maximum number of photons and optim
 
 ## RAW Development & Conversion
 Scene-referred development ensures a faithful conversion of the raw sensor data.  
-A 3D LUT derived from a master ColorChecker in situ guarantees precise color correction (ΔE00 < 2).  
+A 3D LUT derived from the capture of a ColorChecker in situ guarantees precise color and luminance correction (ΔE00 < 2).  
 
 [Nine Degrees Below – Scene-referred vs. Display-referred](https://ninedegreesbelow.com/photography/display-referred-scene-referred.html)  
 [Darktable – Scene-referred workflow](https://docs.darktable.org/usermanual/3.6/en/overview/workflow/edit-scene-referred/)  
@@ -40,8 +35,7 @@ A billion photos are taken every day. You want to stand out? Be creative, and es
 
 Just as my development process is meticulously calibrated, my printing process is equally refined.  
 
-My approach to printing aligns with industry standards, with one key difference:  
-I am both the printer and the client.  
+My approach to printing aligns with industry standards, with one key difference: I am both the printer and the client.  
 
 [Color Management Standards – ICC White Papers](https://www.color.org/whitepapers.xalter)  
 
@@ -53,7 +47,7 @@ I am both the printer and the client.
 
 - Paper Selection – No OBAs:  
   I dismiss papers containing Optical Brightening Agents (OBAs).  
-  OBAs artificially enhance brightness by absorbing ultraviolet light and re-emitting it in the blue spectrum. However, this effect degrades over time, leading to unpredictable color shifts. For archival-quality prints, OBAs are not an option.  
+  OBAs artificially enhance brightness by absorbing ultraviolet light and re-emitting it in the blue spectrum. However, this effect degrades over time, leading to unpredictable color shifts. For archival-quality prints, OBAs are not an option. But it could be an excellent choice in the short term... 
 
 - Gamut & Print Quality Analysis:  
   I use ColorThink Pro and GamutVision to analyze gamut, black & white points, and other critical characteristics before finalizing my paper choice.  
@@ -62,20 +56,20 @@ I am both the printer and the client.
 
 - Profiling Software:  
   Using my i1 Pro, I create custom ICC profiles for every paper with i1Profiler.  
-  I also use ArgyllCMS for advanced profiling tasks, such as creating device link profiles to map master colors to the paper’s gamut as intelligently as possible.  
+  I also use ArgyllCMS for advanced profiling tasks, such as creating device link profiles to map individually my masters colors to the paper’s gamut as intelligently as possible, without crushing them. (Image Dependant Gamut Mapping)  
   [ArgyllCMS](https://www.argyllcms.com/)  
 
 ---
 
 ### Black & White Printing – A Unique Challenge
 
-Most printers are essentially RGB-based. Even in dedicated B&W print modes, the printer still uses color inks for toning adjustments, unless specifically controlled.  
+Most printers are essentially RGB-based. Even in dedicated B&W print modes, the printer still uses color inks for toning adjustments.  
 
 - Challenge:  
-  Printer manufacturers optimize their B&W modes for their own branded papers, meaning third-party papers often lack ICC profiles for B&W printing.  
+  Printer manufacturers optimize their B&W modes for their own branded papers, meaning third-party papers often lack ICC profiles for B&W printing printing mode.  
 
 - Solution:  
-  I create B&W-specific ICC profiles using ABWProfileMaker, ensuring that the printer’s B&W mode is fully optimized for neutral grayscale reproduction.  
+  I create B&W-specific ICC profiles using ABWProfileMaker, ensuring that the printer’s B&W mode is fully optimized for linear grayscale reproduction.  
   [ABW Profile Maker (GitHub)](https://github.com/doug3236/ABWProfilePatches)  
 
 This method provides full control over tonal linearity, resulting in archival-quality grayscale prints.  
