@@ -15,14 +15,14 @@ In my opinion, you don't put something that can last for centuries in a bag that
 
 
 ## Exposure
-ETTR (Expose To The Right) maximizes captured photons and optimizes the signal-to-noise ratio (SNR).  
+ETTR (Expose To The Right) maximizes the signal-to-noise ratio (SNR), the measure of quality of the image.  
 [Learn more about ETTR](https://en.wikipedia.org/wiki/Exposing_to_the_right) |  
 [RawDigger – Calibrating exposure for dynamic range](https://www.rawdigger.com/howtouse/calibrate-exposure-meter-to-improve-dynamic-range)
 
 
 
 ## RAW Development & Conversion
-Scene-referred development preserves the integrity of raw sensor data. A 3D LUT from a ColorChecker ensures color and luminance accuracy (ΔE00 < 2).  
+Scene-referred development preserves the integrity of raw sensor data. A [3D LUT](https://3dlutcreator.com/) from a ColorChecker ensures color and luminance accuracy (ΔE00 < 2).  
 [Scene-referred vs. Display-referred](https://ninedegreesbelow.com/photography/display-referred-scene-referred.html) |  
 [Darktable – Scene-referred workflow](https://docs.darktable.org/usermanual/3.6/en/overview/workflow/edit-scene-referred/)
 
