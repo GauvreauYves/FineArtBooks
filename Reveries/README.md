@@ -1,6 +1,6 @@
 ## ***« Rêveries »*** – Fine Art Photography Book
 
-This page contains the digital reference edition of *Rêveries*, a fine art photography book.
+This page contains the digital reference edition of *Rêveries*, a fine art photography book, and an overview of my workflow.
 
 ## 35,000 feet Overview
 This is a high-level summary of my workflow, covering exposure, RAW development, printing, and archival longevity. Links are provided for further exploration.
@@ -29,12 +29,12 @@ Scene-referred development preserves the integrity of raw sensor data. A [3D LUT
 
 
 ## Post-Processing
-A billion photos are taken every day. If you want to stand out, be creative, and make please your image unique.
+A billion+ photos are taken every day. If you want to stand out, be creative, and please make your image unique.
 
 
 # Printing
 
-Just as my development process is meticulously calibrated, my printing process is equally refined. My printing follows industry standards. For this project, I started by finding the best possible printer, inks and paper for this project. 
+Just as my development process is meticulously calibrated, my printing process is equally refined. My printing follows industry standards practice. I started by finding the best possible printer, inks and paper for this project. 
 [ICC White Papers](https://www.color.org/whitepapers.xalter)
 
 ## ICC Profiling & Paper Selection
@@ -42,14 +42,13 @@ Just as my development process is meticulously calibrated, my printing process i
 I'm using an i1 Pro 2 spectrophotometer for all my color management work.  
 [i1 Pro 2 – X-Rite](https://www.xrite.com/categories/calibration-profiling/i1photo-pro-2)
 
-I avoid papers with Optical Brightening Agents (OBAs) due to their long-term instability. While they enhance brightness under certain lighting conditions, OBAs degrade over time, causing color shifts. For short-term displays, they can work. For archival prints, I avoid them.  
+I avoid papers with Optical Brightening Agents (OBAs) due to their long-term instability. While they enhance brightness under certain lighting conditions, OBAs degrade over time, causing color shifts. For short-term displays, they can work fine. For archival prints, I avoid them.  
 
 I use ColorThink Pro and GamutVision to analyze gamut, black & white points, and other critical characteristics.  
 [ColorThink Pro](https://www.chromix.com/colorthink/#overview) |  
 [GamutVision](http://www.gamutvision.com/modules.php?name=Download)
 
-With my i1 Pro, I create ICC profiles for each paper using i1Profiler. I also use ArgyllCMS for device link profiles, mapping colors from my image masters to the paper’s gamut while preserving color appearance.  
-[ArgyllCMS](https://www.argyllcms.com/)
+With my i1 Pro, I create ICC profiles for each paper I'm using, with i1Profiler. I also use ArgyllCMS for device link profiles, mapping colors from my image masters to the paper’s gamut while preserving color appearance. This is called [Image Dependent Gammut Mapping](https://argyllcms.com/doc/Scenarios.html#LP3) 
 
 
 
