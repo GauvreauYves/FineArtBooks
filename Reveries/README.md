@@ -76,3 +76,9 @@ For true archival permanence, see Table 2 in the Wilhelm Imaging Research report
 
 
 By eliminating OBAs and using calibrated carbon-based inks, my prints are built to endure.
+
+## Final Thoughts  
+
+A print isn’t just ink on paper; it’s the culmination of a process, an intention, and an experience.
+
+The pursuit of perfection in printing is never-ending, but the goal is not just technical accuracy. The print must *live* and *breathe*.
