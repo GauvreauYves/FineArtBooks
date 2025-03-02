@@ -2,16 +2,9 @@
 
 This page contains the digital reference edition of *Rêveries*, a fine art photography book.
 
-
-
-
 ## About This Project
 From capture to print, I ensure that every photon counts...
 <p align="center">━━━━━━━━</p>
-
-## About This Project
-From capture to print, I ensure that every photon counts...
-
 
 ## 50K-Foot Overview
 This is a high-level summary of my workflow, covering exposure, RAW development, printing, and archival longevity. Links are provided for further exploration.
@@ -19,8 +12,7 @@ This is a high-level summary of my workflow, covering exposure, RAW development,
 <p align="center">━━━━━━━━</p>
 
 ## About This Project
-From capture to print, I ensure that every photon counts. Light takes form, evokes deep emotion, and is preserved in a book crafted with care.  
-
+From capture to print, I ensure that every photon counts. Light takes form, evokes deep emotion, and is preserved in a book crafted with care.
 This project was born from the stability of carbon pigment inks—lasting over 400 years. You don’t place something designed to endure in a disposable container. Hence, a book, its covers, and its archival box, made of noble and archival materials—A companion, an accomplice, a messenger of time itself.
 
 <p align="center">━━━━━━━━</p>
