@@ -35,6 +35,7 @@ A billion+ photos are taken every day. If you want to stand out, be creative, an
 # Printing
 
 Just as my development process is meticulously calibrated, my printing process is equally refined. My printing follows industry standards practice. I started by finding the best possible printer, inks and paper for this project. 
+
 [ICC White Papers](https://www.color.org/whitepapers.xalter)
 
 ## ICC Profiling & Paper Selection
@@ -45,7 +46,7 @@ I'm using an i1 Pro 2 spectrophotometer for all my color management work.
 I avoid papers with Optical Brightening Agents (OBAs) due to their long-term instability. While they enhance brightness under certain lighting conditions, OBAs degrade over time, causing color shifts. For short-term displays, they can work fine. For archival prints, I avoid them.  
 
 I use ColorThink Pro and GamutVision to analyze gamut, black & white points, and other critical characteristics.  
-[ColorThink Pro](https://www.chromix.com/colorthink/#overview) |  
+[ColorThink Pro](https://www.chromix.com/colorthink/#overview)  
 [GamutVision](http://www.gamutvision.com/modules.php?name=Download)
 
 With my i1 Pro, I create ICC profiles for each paper I'm using, with i1Profiler. I also use ArgyllCMS for device link profiles, mapping colors from my image masters to the paper’s gamut while preserving color appearance. This is called [Image Dependent Gammut Mapping](https://argyllcms.com/doc/Scenarios.html#LP3) 
@@ -62,7 +63,7 @@ I create B&W-specific ICC profiles with ABWProfileMaker, optimizing the printer�
 For even finer control, QuadTone RIP allows individual ink control for B&W printing only. 
 [QuadTone RIP](http://www.quadtonerip.com/)
 
-A perfectly neutral and linear grayscale print is the foundation. Giving it soul is up to you know.
+A perfectly neutral and linear grayscale print is the foundation. Giving it a soul is up to you know.
 
 
 
@@ -70,7 +71,7 @@ A perfectly neutral and linear grayscale print is the foundation. Giving it soul
 
 I chose the Epson SureColor P700 for its carbon-based pigment inks and their extraordinary longevity.
 
-For specific performance data on using the Epson ABW mode on the P700, see Table 2 in the Wilhelm Imaging Research report. B&W prints exceed 400 years, under proper conditions, a book totally shielded from light.  
+For specific performance data on using the Epson ABW mode on the P700, see Table 2 in the Wilhelm Imaging Research report. B&W prints exceed 400 years, under proper conditions, a book totally shields the prints from light, especially it in a box on top of that.  
 [Wilhelm Imaging Research – Epson SureColor P700 & P900](https://www.wilhelm-research.com/epson/WIR_Epson_SureColor_P700_and_P900_Printers_2021_07_23.pdf)
 
 
