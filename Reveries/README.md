@@ -2,7 +2,7 @@
 
 This page contains the digital reference edition of *Rêveries*, a fine art photography book.
 
-## 35000 feet Overview
+## 35,000 feet Overview
 This is a high-level summary of my workflow, covering exposure, RAW development, printing, and archival longevity. Links are provided for further exploration.
 
 
