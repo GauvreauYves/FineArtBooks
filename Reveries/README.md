@@ -2,28 +2,38 @@
 
 This page contains the digital reference edition of *Rêveries*, a fine art photography book.
 
-## • 50K-Foot Overview
+## 50K-Foot Overview
 This is a high-level summary of my workflow, covering exposure, RAW development, printing, and archival longevity. Links are provided for further exploration.
 
-## • About This Project
+<hr style="border: 1px solid black;">
+
+## About This Project
 From capture to print, I ensure that every photon counts. Light takes form, evokes deep emotion, and is preserved in a book crafted with care.  
 
 This project was born from the stability of carbon pigment inks—lasting over 400 years. You don’t place something designed to endure in a disposable container. Hence, a book, its covers, and its archival box, made of noble and archival materials—A companion, an accomplice, a messenger of time itself.
 
-## • Exposure
+<hr style="border: 1px solid black;">
+
+## Exposure
 ETTR (Expose To The Right) maximizes captured photons and optimizes the signal-to-noise ratio (SNR).  
 [Learn more about ETTR](https://en.wikipedia.org/wiki/Exposing_to_the_right) |  
 [RawDigger – Calibrating exposure for dynamic range](https://www.rawdigger.com/howtouse/calibrate-exposure-meter-to-improve-dynamic-range)
 
-## • RAW Development & Conversion
+<hr style="border: 1px solid black;">
+
+## RAW Development & Conversion
 Scene-referred development preserves raw sensor data without artificial adjustments. A 3D LUT from a ColorChecker ensures color accuracy (ΔE00 < 2).  
 [Scene-referred vs. Display-referred](https://ninedegreesbelow.com/photography/display-referred-scene-referred.html) |  
 [Darktable – Scene-referred workflow](https://docs.darktable.org/usermanual/3.6/en/overview/workflow/edit-scene-referred/)
 
-## • Post-Processing
+<hr style="border: 1px solid black;">
+
+## Post-Processing
 A billion photos are taken every day. You want to stand out? Be creative.
 
-## • Printing
+<hr style="border: 1px solid black;">
+
+# Printing
 
 Printing follows industry standards—except I am both the printer and the client.  
 [ICC White Papers](https://www.color.org/whitepapers.xalter)
@@ -42,7 +52,9 @@ I use ColorThink Pro and GamutVision to analyze gamut, black & white points, and
 With my i1 Pro, I create ICC profiles for each paper using i1Profiler. I also use ArgyllCMS for device link profiles, mapping colors from my image masters to the paper’s gamut while preserving color appearance.  
 [ArgyllCMS](https://www.argyllcms.com/)
 
-## • Black & White Printing
+<hr style="border: 1px solid black;">
+
+## Black & White Printing
 
 Most printers are RGB-based. Even in B&W modes, they often use color inks. Printer manufacturers optimize for their own papers, leaving third-party papers without ICC profiles for B&W.  
 
@@ -54,7 +66,9 @@ For even finer control, QuadTone RIP enables precise multi-ink B&W printing.
 
 A perfectly neutral and linear grayscale print is the foundation. Giving it soul is up to you.
 
-## • Print Longevity – Epson SureColor P700 & Carbon-Based Inks
+<hr style="border: 1px solid black;">
+
+## Print Longevity – Epson SureColor P700 & Carbon-Based Inks
 
 I chose the Epson SureColor P700 for its carbon-based pigment inks and their extraordinary longevity.
 
