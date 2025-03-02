@@ -1,27 +1,34 @@
 ***« Rêveries »*** – Fine Art Photography Book
+
 This page contains the digital reference edition of *Rêveries*, a fine art photography book.
 
 **About This Project**
+
 From capture to print, I make every photon count, ensuring my prints reveal scenes where light comes to life and evokes deep emotion.
 This project embodies all my knowledge and expertise. Art, technique, and craftsmanship come together in a quest where time itself becomes raw material.
 Yes, this project was born from the incredible stability of carbon pigment inks. Imagine: over 400 years of permanence. That was enough to align everything around this phenomenal characteristic.
 To me, you don’t put content capable of lasting centuries in a biodegradable bag that vanishes in months. Hence, the idea of a book, its covers, and its archival case—made of noble and archival materials, handcrafted with meticulous care—a companion, a witness, a messenger of time itself.
 
 **50,000-Foot Workflow Overview**
+
 This is a high-level overview of my workflow, without detailed explanations.
 **Exposure**  
+
 - *Expose To The Right (ETTR)* maximizes captured photons, optimizing the signal-to-noise ratio (SNR).  
 - [Calibrating exposure for optimal dynamic range](https://www.rawdigger.com/howtouse/calibrate-exposure-meter-to-improve-dynamic-range)
-**RAW Development & Conversion**  
+**RAW Development & Conversion** 
+ 
 - Scene-referred workflow for accurate RAW conversion.  
 - Custom 3D LUT from an *in-situ* ColorChecker ensures precise color correction (ΔE00 < 2).  
 - [DCRaw – Scene-referred RAW development](https://www.guillermoluijk.com/tutorial/dcraw/index_en.htm)  
 - [Ansel – Scene-referred workflow](https://ansel.photos/en/workflows/scene-referred/)  
 - [Display-referred vs. scene-referred](https://ninedegreesbelow.com/photography/display-referred-scene-referred.html)
-**Post-Processing**  
+**Post-Processing** 
+ 
 A billion photos are taken every day. You want to stand out? Be creative, and especially make your image unique.
 
 **Printing**
+
 Just as my development process is calibrated, my printing process is just as well thought out.
 My approach follows the best practices used in the printing industry—except that I am both the printer and the client.
 - [ICC Profile creation process](https://www.color.org/whitepapers.xalter)  
