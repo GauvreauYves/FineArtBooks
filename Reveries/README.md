@@ -54,7 +54,7 @@ My approach to printing aligns with industry standards, with one key difference:
   [GamutVision](http://www.gamutvision.com/modules.php?name=Download)  
 
 - Profiling Software:  
-  Using my i1 Pro, I create custom ICC profiles for every paper with i1Profiler.  
+  Using my i1 Pro, I create custom ICC profiles for every paper I use with i1Profiler.  
   I also use ArgyllCMS for advanced profiling tasks, such as creating device link profiles to map individually my masters colors to the paper’s gamut as intelligently as possible, without crushing them. (Image Dependant Gamut Mapping)  
   [ArgyllCMS](https://www.argyllcms.com/)  
 
