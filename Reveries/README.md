@@ -9,7 +9,7 @@ This is a high-level summary of my workflow, covering exposure, RAW development,
 
 ## About This Project
 From capture to print, I ensure that every photon counts. Light takes form, evokes deep emotion, and is preserved in a book crafted with care.
-This project was born from the stability of carbon pigment inks—lasting over 400 years. You don’t place something designed to endure in a disposable container. Hence, a book, its covers, and its archival box, made of noble and archival materials—A companion, an accomplice, a messenger of time itself.
+This project was born from the stability of carbon pigment inks—lasting over 400 years. You don’t place something designed to endure in a disposable container. Hence, a book, its covers, and its archival box, made of noble and archival materials—a companion, an accomplice, a messenger of time itself.
 
 
 
@@ -28,13 +28,12 @@ Scene-referred development preserves raw sensor data without artificial adjustme
 
 
 ## Post-Processing
-A billion photos are taken every day. You want to stand out? Be creative.
-
+A billion photos are taken every day. If you want to stand out, be creative, and make your image unique.
 
 
 # Printing
 
-Printing follows industry standards—except I am both the printer and the client.  
+My printing follows industry standards. 
 [ICC White Papers](https://www.color.org/whitepapers.xalter)
 
 ### ICC Profiling & Paper Selection
@@ -42,7 +41,7 @@ Printing follows industry standards—except I am both the printer and the clien
 I create ICC profiles using an i1 Pro 2 spectrophotometer.  
 [i1 Pro 2 – X-Rite](https://www.xrite.com/categories/calibration-profiling/i1photo-pro-2)
 
-I dismiss papers containing Optical Brightening Agents (OBAs). While they enhance brightness under certain lighting conditions, OBAs degrade over time, causing color shifts. For short-term displays, they can work. For archival prints, I avoid them.  
+I avoid papers with Optical Brightening Agents (OBAs) due to their long-term instability. While they enhance brightness under certain lighting conditions, OBAs degrade over time, causing color shifts. For short-term displays, they can work. For archival prints, I avoid them.  
 
 I use ColorThink Pro and GamutVision to analyze gamut, black & white points, and other critical characteristics.  
 [ColorThink Pro](https://www.chromix.com/colorthink/#overview) |  
@@ -75,7 +74,7 @@ For true archival permanence, see Table 2 in the Wilhelm Imaging Research report
 [Wilhelm Imaging Research – Epson SureColor P700 & P900](https://www.wilhelm-research.com/epson/WIR_Epson_SureColor_P700_and_P900_Printers_2021_07_23.pdf)
 
 
-By eliminating OBAs and using calibrated carbon-based inks, my prints are built to endure.
+Without OBAs and with calibrated carbon-based inks, my prints are made to last.
 
 ## Final Thoughts  
 
