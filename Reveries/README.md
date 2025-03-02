@@ -9,7 +9,7 @@ This project draws on all my **knowledge and expertise**. **Art, technique, and 
 Yes, this project was born out of the **incredible stability of carbon pigment inks**.  
 👉 Just imagine: **over 400 years of permanence.** That alone was enough to align everything around this **phenomenal characteristic**.  
 
-📌 **You don’t put something that can last centuries in a biodegradable bag that decomposes in months.**  
+📌 **You don’t put something that can last centuries in a biodegradable bag, right?**  
 👉 Hence, the idea of **a book, its covers, and its archival box, made of noble materials, handcrafted with great care**—  
 A **companion, an accomplice, a messenger of time itself.**  
 
