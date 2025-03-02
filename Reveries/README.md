@@ -8,8 +8,9 @@ This is a high-level summary of my workflow, covering exposure, RAW development,
 
 
 ## About This Project
-From capture to print, I ensure that every photon counts. Light takes form, evokes deep emotion, and is preserved in a book crafted with care.
-This project was born from the stability of carbon pigment inks—lasting over 400 years. You don’t place something designed to endure in a disposable container. Hence, a book, its covers, and its archival box, made of noble and archival materials—a companion, an accomplice, a messenger of time itself.
+From capture to print to your eyes, I do my utmost to ensure that every photon counts, that my prints reveal scenes where light comes alive and awakens deep emotion. This project draws on all my knowledge and expertise. Art, technique and craftsmanship come together in a quest where time itself becomes raw material.
+Yes, this project was born of the incredible stability of carbon pigment inks. Just imagine: over 400 years of permanence. That's all it took to unite everything around this phenomenal characteristic.
+In my opinion, you don't put something that can last for centuries in a bag that will degrade in a few months. Hence, the idea of a book, its covers and its box, made of noble and archival materials, hand-crafted with great care: a companion, an accomplice, a messenger of time itself.
 
 
 
@@ -21,24 +22,24 @@ ETTR (Expose To The Right) maximizes captured photons and optimizes the signal-t
 
 
 ## RAW Development & Conversion
-Scene-referred development preserves raw sensor data without artificial adjustments. A 3D LUT from a ColorChecker ensures color accuracy (ΔE00 < 2).  
+Scene-referred development preserves the integrity of raw sensor data. A 3D LUT from a ColorChecker ensures color and luminance accuracy (ΔE00 < 2).  
 [Scene-referred vs. Display-referred](https://ninedegreesbelow.com/photography/display-referred-scene-referred.html) |  
 [Darktable – Scene-referred workflow](https://docs.darktable.org/usermanual/3.6/en/overview/workflow/edit-scene-referred/)
 
 
 
 ## Post-Processing
-A billion photos are taken every day. If you want to stand out, be creative, and make your image unique.
+A billion photos are taken every day. If you want to stand out, be creative, and make please your image unique.
 
 
 # Printing
 
-My printing follows industry standards. 
+Just as my development process is meticulously calibrated, my printing process is equally refined. My printing follows industry standards. For this project, I started by finding the best possible printer, inks and paper for this project. 
 [ICC White Papers](https://www.color.org/whitepapers.xalter)
 
-### ICC Profiling & Paper Selection
+## ICC Profiling & Paper Selection
 
-I create ICC profiles using an i1 Pro 2 spectrophotometer.  
+I'm using an i1 Pro 2 spectrophotometer for all my color management work.  
 [i1 Pro 2 – X-Rite](https://www.xrite.com/categories/calibration-profiling/i1photo-pro-2)
 
 I avoid papers with Optical Brightening Agents (OBAs) due to their long-term instability. While they enhance brightness under certain lighting conditions, OBAs degrade over time, causing color shifts. For short-term displays, they can work. For archival prints, I avoid them.  
@@ -56,13 +57,13 @@ With my i1 Pro, I create ICC profiles for each paper using i1Profiler. I also us
 
 Most printers are RGB-based. Even in B&W modes, they often use color inks. Printer manufacturers optimize for their own papers, leaving third-party papers without ICC profiles for B&W.  
 
-I create B&W-specific ICC profiles with ABWProfileMaker, optimizing the printer’s B&W mode for neutral grayscale.  
+I create B&W-specific ICC profiles with ABWProfileMaker, optimizing the printer’s B&W mode for quasi perfect linear grayscale.  
 [ABW Profile Maker (GitHub)](https://github.com/doug3236/ABWProfilePatches)  
 
-For even finer control, QuadTone RIP enables precise multi-ink B&W printing.  
+For even finer control, QuadTone RIP allows individual ink control for B&W printing only. 
 [QuadTone RIP](http://www.quadtonerip.com/)
 
-A perfectly neutral and linear grayscale print is the foundation. Giving it soul is up to you.
+A perfectly neutral and linear grayscale print is the foundation. Giving it soul is up to you know.
 
 
 
@@ -70,11 +71,11 @@ A perfectly neutral and linear grayscale print is the foundation. Giving it soul
 
 I chose the Epson SureColor P700 for its carbon-based pigment inks and their extraordinary longevity.
 
-For true archival permanence, see Table 2 in the Wilhelm Imaging Research report, detailing the P700's lifespan. B&W prints exceed 400 years; color prints last over 200 under proper conditions.  
+For specific performance data on using the Epson ABW mode on the P700, see Table 2 in the Wilhelm Imaging Research report. B&W prints exceed 400 years, under proper conditions, a book totally shielded from light.  
 [Wilhelm Imaging Research – Epson SureColor P700 & P900](https://www.wilhelm-research.com/epson/WIR_Epson_SureColor_P700_and_P900_Printers_2021_07_23.pdf)
 
 
-Without OBAs and with calibrated carbon-based inks, my prints are made to last.
+My prints made from a calibrated process using carbon-based pigment inks, and a [ISO9706](https://cdn.standards.iteh.ai/samples/17562/34a23f9c75e44bc0a5b582d3f3608d35/ISO-9706-1994.pdf) conform / museum quality for highest age resistance rated paper, my prints are made to last very long time. 
 
 ## Final Thoughts  
 
