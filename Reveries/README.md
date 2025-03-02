@@ -18,7 +18,7 @@ ETTR (Expose To The Right) helps capture the maximum number of photons and optim
 
 ## RAW Development & Conversion
 Scene-referred development ensures a faithful conversion of the raw sensor data.  
-A 3D LUT derived from the capture of a ColorChecker in situ guarantees precise color and luminance correction (ΔE00 < 2).  
+A 3D LUT derived from the capture of a ColorChecker in situ ensures precise color and luminance correction (ΔE00 < 2).  
 
 [Nine Degrees Below – Scene-referred vs. Display-referred](https://ninedegreesbelow.com/photography/display-referred-scene-referred.html)  
 [Darktable – Scene-referred workflow](https://docs.darktable.org/usermanual/3.6/en/overview/workflow/edit-scene-referred/)  
@@ -45,8 +45,7 @@ My approach to printing aligns with industry standards, with one key difference:
   [i1 Pro 2 – X-Rite](https://www.xrite.com/categories/calibration-profiling/i1photo-pro-2)  
 
 - Paper Selection – No OBAs:  
-  I dismiss papers containing Optical Brightening Agents (OBAs).  
-  OBAs artificially enhance brightness by absorbing ultraviolet light and re-emitting it in the blue spectrum. However, this effect degrades over time, leading to unpredictable color shifts. For archival-quality prints, OBAs are not an option. But it could be an excellent choice in the short term... 
+  Optical Brightening Agents (OBAs) artificially enhance brightness by absorbing ultraviolet light and re-emitting it in the blue spectrum. While this can make a print appear more vibrant under certain lighting conditions, OBAs degrade over time, leading to unpredictable color shifts. For archival-quality prints, OBAs are not an option. However, for short-term display purposes—such as exhibitions or commercial presentations—papers with OBAs, like Epson Velvet Fine Art, can be an excellent choice. Since my goal is long-term stability, I exclude OBAs from my workflow. 
 
 - Gamut & Print Quality Analysis:  
   I use ColorThink Pro and GamutVision to analyze gamut, black & white points, and other critical characteristics before finalizing my paper choice.  
