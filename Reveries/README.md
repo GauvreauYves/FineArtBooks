@@ -2,10 +2,6 @@
 
 This page contains the digital reference edition of *Rêveries*, a fine art photography book.
 
-## About This Project
-From capture to print, I ensure that every photon counts...
-<p align="center">━━━━━━━━</p>
-
 ## 50K-Foot Overview
 This is a high-level summary of my workflow, covering exposure, RAW development, printing, and archival longevity. Links are provided for further exploration.
 
@@ -77,5 +73,6 @@ I chose the Epson SureColor P700 for its carbon-based pigment inks and their ext
 
 For true archival permanence, see Table 2 in the Wilhelm Imaging Research report, detailing the P700's lifespan. B&W prints exceed 400 years; color prints last over 200 under proper conditions.  
 [Wilhelm Imaging Research – Epson SureColor P700 & P900](https://www.wilhelm-research.com/epson/WIR_Epson_SureColor_P700_and_P900_Printers_2021_07_23.pdf)
+<p align="center">━━━━━━━━</p>
 
 By eliminating OBAs and using calibrated carbon-based inks, my prints are built to endure.
