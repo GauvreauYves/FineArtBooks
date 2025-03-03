@@ -50,7 +50,7 @@ A billion+ photos are taken every day. If you want to stand out, be creative, an
 
 # Printing
 
-Just as my development process is meticulously calibrated, my printing process is equally refined. My printing follows industry best practices. I started by finding the best possible printer, inks and paper for this project. 
+Just as my RAW development process is meticulously calibrated, my printing process is equally refined. My printing follows industry best practices. I started by finding the best possible printer, inks and paper for this project. 
 
 
 ##  Paper Selection & ICC Profiling
