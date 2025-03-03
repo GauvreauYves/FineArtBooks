@@ -74,6 +74,13 @@ For profiling, I create custom ICC profiles for each paper using i1Profiler. I a
 
 This is called "Image Dependent Gamut Mapping" , and it's probably one of the most refined and elegant approach to bringing my master image colors (ProPhoto RGB) into the printer’s (ink, paper) gamut.
 
+### **Why Image Dependent Gamut Mapping?**  
+
+I do a lot of flowers photography and they often exhibit extreme saturation levels that exceed the gamut of most display and print color spaces. Default gamut mapping methods can sometimes cause unwanted compression, loss of color relationships, or shifts in hue. To ensure my prints faithfully represent my original image without unnecessary distortions, I use **Image Dependent Gamut Mapping**.  
+
+This method selectively maps colors to the printer's gamut while preserving their relative appearance as naturally as possible. By automating this process with a batch workflow, I maintain full control while keeping efficiency high and ensuring optimal results in every print.
+
+
 [Image Dependent Gamut Mapping](https://argyllcms.com/doc/Scenarios.html#LP3)<br>
 [Image Dependent Gamut Mapping (papers)](https://www.google.ca/search?q=%22image+dependent+gamut+mapping%22&rlz=1C2CHZN_enCA979CA979&sca_esv=d0d3ba676e08ed7a&sxsrf=AHTn8zp9IQt8upU5d-r_GmzLF-i5vH80SA%3A1741013460696&ei=1MHFZ66dKqbcptQPovrgYA&ved=0ahUKEwiu1_7GlO6LAxUmrokEHSI9GAwQ4dUDCBA&uact=5&oq=%22image+dependent+gamut+mapping%22&gs_lp=Egxnd3Mtd2l6LXNlcnAiHyJpbWFnZSBkZXBlbmRlbnQgZ2FtdXQgbWFwcGluZyIyBxAjGCcYrgJIzHtQAFindnABeAGQAQCYAaQBoAHDGKoBBTE4LjE0uAEDyAEA-AEBmAIgoAKrGcICChAjGIAEGCcYigXCAgQQIxgnwgIQEAAYgAQYsQMYQxiDARiKBcICBRAAGIAEwgIREC4YgAQYsQMY0QMYgwEYxwHCAgsQLhiABBjRAxjHAcICCxAAGIAEGJECGIoFwgIOEAAYgAQYsQMYgwEYigXCAggQABiABBixA8ICCxAAGIAEGLEDGIMBwgINEAAYgAQYsQMYQxiKBcICChAAGIAEGEMYigXCAgYQABgWGB7CAggQABgWGAoYHsICCxAAGIAEGIYDGIoFwgIFECEYoAGYAwCSBwUxMi4yMKAH8qMB&sclient=gws-wiz-serp)
 
