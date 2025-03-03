@@ -24,7 +24,7 @@ ETTR (Expose To The Right) The short story, it maximizes the signal-to-noise rat
 
 ## RAW Development & Conversion
 Scene-referred development preserves the integrity and authenticity of captured raw sensor data. A [correction LUT](https://3dlutcreator.com/) made from a ColorChecker shot in situ  ensures color and luminance accuracy (ΔE00 < 2).  
-[Scene-referred vs. Display-referred](https://ninedegreesbelow.com/photography/display-referred-scene-referred.html) |  
+[Scene-referred vs. Display-referred](https://ninedegreesbelow.com/photography/display-referred-scene-referred.html)   
 [Darktable – Scene-referred workflow](https://docs.darktable.org/usermanual/3.6/en/overview/workflow/edit-scene-referred/)
 
 
