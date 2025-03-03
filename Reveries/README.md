@@ -56,8 +56,7 @@ I use an i1 Pro 2 spectrophotometer for all my color management work.
 
 To analyze gamut, black & white points, and other critical ICC profile characteristics, I use ColorThink Pro and GamutVision:  
 [ColorThink Pro](https://www.chromix.com/colorthink/#overview)  
-[GamutVision](http://www.gamutvision.com/modules.php?name=Download) 
-
+[GamutVision](http://www.gamutvision.com/modules.php?name=Download)<BR> 
 [ICC White Papers](https://www.color.org/whitepapers.xalter) 
 
 When evaluating paper, I consider several key factors:
