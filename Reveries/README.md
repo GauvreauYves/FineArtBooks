@@ -76,7 +76,7 @@ This is called "Image Dependent Gamut Mapping" , and it's probably one of the mo
 
 ### **Why Image Dependent Gamut Mapping?**  
 
-I do a lot of flowers photography and they often exhibit extreme saturation levels that exceed the gamut of most display and print color spaces. Default gamut mapping methods can sometimes cause unwanted compression, loss of color relationships, or shifts in hue. To ensure my prints faithfully represent my original image without unnecessary distortions, I use **Image Dependent Gamut Mapping**.  
+I do a lot of flowers photography and they often, if not always exhibit extreme saturation levels that exceed the gamut of most display and print color spaces. Default gamut mapping methods can sometimes cause unwanted compression, loss of color relationships, or shifts in hue. To ensure my prints faithfully represent my original image without unnecessary distortions, I use **Image Dependent Gamut Mapping**.  
 
 This method selectively maps colors to the printer's gamut while preserving their relative appearance as naturally as possible. By automating this process with a batch workflow, I maintain full control while keeping efficiency high and ensuring optimal results in every print.
 
