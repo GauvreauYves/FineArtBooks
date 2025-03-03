@@ -15,7 +15,7 @@ This is a high-level summary of my workflow, covering exposure, RAW development,
 
 From capture to print to your eyes, I do my utmost to ensure that every photon counts, that my prints reveal scenes where light comes alive and awakens deep emotion. This project draws on all my knowledge and expertise. Art, technique, and craftsmanship converge in perfect synergy, in the pursuit of excellence and permanence.
 
-This project was born out of the incredible stability of carbon pigment inks. Just imagine: over 400 years of permanence. That was all it took to unite everything around this phenomenal characteristics. Hence, the idea of a book, its covers, and its archival box, made of noble and archival materials, hand-crafted with great care: a companion, an accomplice, a messenger of time itself.
+This project was born out of the incredible stability of carbon pigment inks. Just imagine: over 400 years of permanence. That was all it took to unite everything around this phenomenal characteristic. Hence, the idea of a book, its covers, and its archival box, made of noble and archival materials, hand-crafted with great care: a companion, an accomplice, a messenger of time itself.
 
 
 
@@ -68,7 +68,7 @@ When evaluating paper, I consider several key factors:
 - **DMax**: For matte papers, achieving the deepest black possible is crucial, while glossy papers generally perform well in this regard.  
 - **Paper whiteness**: I favor warmer papers (positive B* in CIELab) over cooler ones (negative B*).  
 - **Optical Brightening Agents (OBAs)**: I avoid them due to their long-term instability. While OBAs enhance brightness under UV light, they degrade over time, leading to color shifts. For short-term displays, they can be beneficial, but for archival purposes, I steer clear, as UV exposure also affects the permanence of most materials. 
-- **Texture**: This is a non-objective caracteristic of the paper, so you are on your own...
+- **Texture**: This is a non-objective characteristic of the paper, so you are on your own...
 
 For profiling, I create custom ICC profiles for each paper using i1Profiler. I also use ArgyllCMS to create device link profiles, mapping colors from my image masters to the paper’s gamut while preserving color appearance and luminance.  
 
