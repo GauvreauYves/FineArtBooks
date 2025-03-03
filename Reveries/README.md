@@ -61,32 +61,36 @@ For profiling, I create **custom ICC profiles** for each paper using **i1Profile
 
 This is called **[Image Dependent Gamut Mapping](https://argyllcms.com/doc/Scenarios.html#LP3)**, and it's probably one of the most **refined and elegant** approach to bringing my master image colors (ProPhoto RGB) into the printer’s (ink, paper) gamut.
 
+With all this being said, I've chosen to use Hahnemühle Photo Rag 188 gsm, a little brother of the world renoun Photo Rag 308 gsm paper. An ISO-9706-1994 compliant paper.
+
+[ISO 9706](https://cdn.standards.iteh.ai/samples/17562/34a23f9c75e44bc0a5b582d3f3608d35/ISO-9706-1994.pdf)
+
 
 ## Black & White Printing
 
-Most printers are RGB-based. Even in B&W modes, they often use color inks. Printer manufacturers optimize for their own papers, leaving third-party papers without ICC profiles for B&W.  
+Most printers are RGB-based. Even in B&W modes, they require RGB images, for best results. Printer manufacturers optimize this mode for their own papers, leaving third-party papers without ICC profiles for B&W.  
 
 I create B&W-specific ICC profiles with ABWProfileMaker, optimizing the printer’s B&W mode for a quasi-perfect linear grayscale.  
 [ABW Profile Maker (GitHub)](https://github.com/doug3236/ABWProfilePatches)  
 
-For even finer control, QuadTone RIP allows individual ink control for B&W printing only. 
+For even finer control of the neutrality, QuadTone RIP allows individual ink control for B&W printing only.  
 [QuadTone RIP](http://www.quadtonerip.com/)
 
-A perfectly neutral and linear grayscale print is the foundation. Giving it a soul is up to you now.
+A perfectly neutral and linear grayscale print is the foundation. Giving it a soul, well this is up to you now.
 
 
 
 ## Print Longevity – Epson SureColor P700 & Carbon-Based Inks
 
-I chose the Epson SureColor P700 for its carbon-based pigment inks and their extraordinary longevity.
+I chose the Epson SureColor P700 for its carbon-based pigment black inks and their extraordinary longevity.
 
-For performance data using the Epson ABW mode with the P700, see Table 2 in the Wilhelm Imaging Research report. B&W prints can last over 400 years under proper conditions. A book completely shields the prints from light—especially when stored in a box. 
+For performance data using the Epson ABW mode with the P700, see Table 2 in the Wilhelm Imaging Research report. B&W prints can last over 400 years under proper conditions. A book completely shields the prints from light, especially when stored in a box. 
 [Wilhelm Imaging Research – Epson SureColor P700 & P900](https://www.wilhelm-research.com/epson/WIR_Epson_SureColor_P700_and_P900_Printers_2021_07_23.pdf)
-[ISO 9706](https://cdn.standards.iteh.ai/samples/17562/34a23f9c75e44bc0a5b582d3f3608d35/ISO-9706-1994.pdf)
+
 
 
 ## Final Thoughts  
 
 A print isn’t just ink on paper; it’s the culmination of a process, an intention, and an experience.
 
-The pursuit of perfection in printing is never-ending, but the goal is not just technical accuracy. The print must *live* and *breathe*.
+The pursuit of excellence in printing is never-ending, but the goal is not just technical accuracy. The print must *live* and *breathe*, otherwise, it's just a piece of paper with black dot on it.
