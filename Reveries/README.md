@@ -52,23 +52,25 @@ Just as my development process is meticulously calibrated, my printing process i
 
 ##  Paper Selection & ICC Profiling
 
-I use an **i1 Pro 2 spectrophotometer** for all my color management work.  
+I use an i1 Pro 2 spectrophotometer for all my color management work.  
 [i1 Pro 2 – X-Rite](https://www.xrite.com/categories/calibration-profiling/i1photo-pro-2)  
 
-To analyze gamut, black & white points, and other critical ICC profile characteristics, I use **ColorThink Pro** and **GamutVision**:  
+To analyze gamut, black & white points, and other critical ICC profile characteristics, I use ColorThink Pro and GamutVision:  
 [ColorThink Pro](https://www.chromix.com/colorthink/#overview)  
 [GamutVision](http://www.gamutvision.com/modules.php?name=Download)  
 
 When evaluating paper, I consider several key factors:
 - **Gamut**: I choose my printer with 10 or more inks, the more you have, the wider the gamut will be. With 10 inks you generally have a printer that can "print" or render colors outside the sRGB and Adobe RGB gamut. In other words it can print color your screen can't show you accurately. 
 - **DMax**: For matte papers, achieving the deepest black possible is crucial, while glossy papers generally perform well in this regard.  
-- **Paper whiteness**: I favor **warmer papers** (positive **B*** in **CIELab**) over cooler ones (negative **B***).  
+- **Paper whiteness**: I favor warmer papers (positive B* in CIELab) over cooler ones (negative B*).  
 - **Optical Brightening Agents (OBAs)**: I avoid them due to their long-term instability. While OBAs enhance brightness under UV light, they degrade over time, leading to color shifts. For short-term displays, they can be beneficial, but for archival purposes, I steer clear, as UV exposure also affects the permanence of most materials. 
 - **Texture**: This is a non-objective caracteristic of the paper, so you are on your own...
 
-For profiling, I create **custom ICC profiles** for each paper using **i1Profiler**. I also use **ArgyllCMS** to create **device link profiles**, mapping colors from my **image masters** to the paper’s gamut while preserving color appearance and luminance.  
+For profiling, I create custom ICC profiles for each paper using i1Profiler. I also use ArgyllCMS to create device link profiles, mapping colors from my image masters to the paper’s gamut while preserving color appearance and luminance.  
 
-This is called **[Image Dependent Gamut Mapping](https://argyllcms.com/doc/Scenarios.html#LP3)**, and it's probably one of the most **refined and elegant** approach to bringing my master image colors (ProPhoto RGB) into the printer’s (ink, paper) gamut.
+This is called "Image Dependent Gamut Mapping" , and it's probably one of the most refined and elegant approach to bringing my master image colors (ProPhoto RGB) into the printer’s (ink, paper) gamut.
+
+[Image Dependent Gamut Mapping](https://argyllcms.com/doc/Scenarios.html#LP3)
 
 With all this being said, I've chosen to use Hahnemühle Photo Rag 188 gsm, a little brother of the world renoun Photo Rag 308 gsm paper. An ISO-9706-1994 compliant paper.
 
