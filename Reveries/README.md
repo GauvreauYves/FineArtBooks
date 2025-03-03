@@ -15,20 +15,20 @@ This is a high-level summary of my workflow, covering exposure, RAW development,
 
 From capture to print to your eyes, I do my utmost to ensure that every photon counts, that my prints reveal scenes where light comes alive and awakens deep emotion. This project draws on all my knowledge and expertise. Art, technique, and craftsmanship converge in perfect synergy, in the pursuit of excellence and permanence.
 
-This project was born out of the incredible stability of carbon pigment inks. Just imagine: over 400 years of permanence. That was all it took to unite everything around this phenomenal characteristic. Hence, the idea of a book, its covers, and its archival box, made of noble and archival materials, hand-crafted with great care: a companion, an accomplice, a messenger of time itself.
+This project was born out of the incredible stability of carbon pigment inks. Just imagine: over 400 years of permanence. That was all it took to unite everything around this phenomenal characteristics. Hence, the idea of a book, its covers, and its archival box, made of noble and archival materials, hand-crafted with great care: a companion, an accomplice, a messenger of time itself.
 
 
 
 
 ## Exposure
-ETTR (Expose To The Right) The short story, it maximizes the signal-to-noise ratio (SNR), a measure of quality of an image, and it also maximize the dynamic range.  
+ETTR (Expose To The Right) The short story, it maximizes the signal-to-noise ratio (SNR), a measure of quality of an image, and it also maximizes the dynamic range.  
 [Learn more about ETTR](https://en.wikipedia.org/wiki/Exposing_to_the_right)  
 [RawDigger – Calibrating exposure for dynamic range](https://www.rawdigger.com/howtouse/calibrate-exposure-meter-to-improve-dynamic-range)
 
 
 
 ## RAW Development & Conversion
-Scene-referred development preserves the integrity and authenticity of captured raw sensor data. A correction LUT made from a ColorChecker shot in situ  ensures color and luminance accuracy to an even greater level (ΔE00 < 2). I use mostly DCRaw_emu in combination with PureRaw4 from DXO, 3DLut Creator, and of course Photoshop / Lightroom. Recently, I created a custom DCP profile from my cameras SSF that I use from Lightroom. This method also benefit from the correction Lut strategy. The actual workflow is a bit complex, as I use quite a few programs, but the results are worth it. It's a bit kind of Ansel Adams idea of exposing to obtain blacks with a 0.1d (density) above base + fog. If you tried to approach this before, you know what I mean...
+Scene-referred development preserves the integrity and authenticity of captured raw sensor data. A correction LUT made from a ColorChecker shot in situ  ensures color and luminance accuracy to an even greater level (ΔE00 < 2). I use mostly DCRaw_emu in combination with PureRaw4 from DXO, 3DLut Creator, and of course Photoshop / Lightroom. Recently, I created a custom DCP profile from my cameras Spectral Sensitivity Function (SSF) that I use from Lightroom. This method also benefit from the correction Lut strategy. The actual workflow is a bit complex, as I use quite a few programs, but the results are worth it. It's a bit kind of Ansel Adams idea of exposing to obtain blacks with a 0.1d (density) above base + fog. If you tried to approach this before, you know what I mean...
 
 [Scene-referred vs. Display-referred](https://ninedegreesbelow.com/photography/display-referred-scene-referred.html)   
 [Darktable – Scene-referred workflow](https://docs.darktable.org/usermanual/3.6/en/overview/workflow/edit-scene-referred/)
@@ -77,14 +77,14 @@ This is called "Image Dependent Gamut Mapping" , and it's probably one of the mo
 [Image Dependent Gamut Mapping](https://argyllcms.com/doc/Scenarios.html#LP3)<br>
 [Image Dependent Gamut Mapping (papers)](https://www.google.ca/search?q=%22image+dependent+gamut+mapping%22&rlz=1C2CHZN_enCA979CA979&sca_esv=d0d3ba676e08ed7a&sxsrf=AHTn8zp9IQt8upU5d-r_GmzLF-i5vH80SA%3A1741013460696&ei=1MHFZ66dKqbcptQPovrgYA&ved=0ahUKEwiu1_7GlO6LAxUmrokEHSI9GAwQ4dUDCBA&uact=5&oq=%22image+dependent+gamut+mapping%22&gs_lp=Egxnd3Mtd2l6LXNlcnAiHyJpbWFnZSBkZXBlbmRlbnQgZ2FtdXQgbWFwcGluZyIyBxAjGCcYrgJIzHtQAFindnABeAGQAQCYAaQBoAHDGKoBBTE4LjE0uAEDyAEA-AEBmAIgoAKrGcICChAjGIAEGCcYigXCAgQQIxgnwgIQEAAYgAQYsQMYQxiDARiKBcICBRAAGIAEwgIREC4YgAQYsQMY0QMYgwEYxwHCAgsQLhiABBjRAxjHAcICCxAAGIAEGJECGIoFwgIOEAAYgAQYsQMYgwEYigXCAggQABiABBixA8ICCxAAGIAEGLEDGIMBwgINEAAYgAQYsQMYQxiKBcICChAAGIAEGEMYigXCAgYQABgWGB7CAggQABgWGAoYHsICCxAAGIAEGIYDGIoFwgIFECEYoAGYAwCSBwUxMi4yMKAH8qMB&sclient=gws-wiz-serp)
 
-With all this being said, I've chosen to use Hahnemühle Photo Rag 188 gsm, a little brother of the world renoun Photo Rag 308 gsm paper. An ISO-9706-1994 compliant paper.
+With all this being said, I've chosen to use Hahnemühle Photo Rag 188 gsm, a little brother of the world renouned Photo Rag 308 gsm paper. An ISO-9706-1994 compliant paper.
 
 [ISO 9706](https://cdn.standards.iteh.ai/samples/17562/34a23f9c75e44bc0a5b582d3f3608d35/ISO-9706-1994.pdf)
 
 
 ## Black & White Printing
 
-Most printers are RGB-based. Even with B&W modes, it's recommand using RGB images, for best results. Printer manufacturers optimize this mode for their own papers, leaving third-party papers without ICC profiles for B&W.  
+Most printers are RGB-based. Even with B&W modes, it's recommended using RGB images, for best results. Printer manufacturers optimize this mode for their own papers, leaving third-party papers without ICC profiles for B&W.  
 
 I create B&W-specific ICC profiles with ABWProfileMaker, optimizing the printer’s B&W mode for a quasi-perfect linear grayscale.  
 [ABW Profile Maker (GitHub)](https://github.com/doug3236/ABWProfilePatches)  
