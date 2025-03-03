@@ -48,7 +48,6 @@ A billion+ photos are taken every day. If you want to stand out, be creative, an
 
 Just as my development process is meticulously calibrated, my printing process is equally refined. My printing follows industry best practices. I started by finding the best possible printer, inks and paper for this project. 
 
-[ICC White Papers](https://www.color.org/whitepapers.xalter)
 
 ##  Paper Selection & ICC Profiling
 
@@ -57,7 +56,8 @@ I use an i1 Pro 2 spectrophotometer for all my color management work.
 
 To analyze gamut, black & white points, and other critical ICC profile characteristics, I use ColorThink Pro and GamutVision:  
 [ColorThink Pro](https://www.chromix.com/colorthink/#overview)  
-[GamutVision](http://www.gamutvision.com/modules.php?name=Download)  
+[GamutVision](http://www.gamutvision.com/modules.php?name=Download) 
+[ICC White Papers](https://www.color.org/whitepapers.xalter) 
 
 When evaluating paper, I consider several key factors:
 - **Gamut**: I choose my printer with 10 or more inks, the more you have, the wider the gamut will be. With 10 inks you generally have a printer that can "print" or render colors outside the sRGB and Adobe RGB gamut. In other words it can print color your screen can't show you accurately. 
@@ -79,7 +79,7 @@ With all this being said, I've chosen to use Hahnemühle Photo Rag 188 gsm, a li
 
 ## Black & White Printing
 
-Most printers are RGB-based. Even in B&W modes, they require RGB images, for best results. Printer manufacturers optimize this mode for their own papers, leaving third-party papers without ICC profiles for B&W.  
+Most printers are RGB-based. Even with B&W modes, they recommand using RGB images, for best results. Printer manufacturers optimize this mode for their own papers, leaving third-party papers without ICC profiles for B&W.  
 
 I create B&W-specific ICC profiles with ABWProfileMaker, optimizing the printer’s B&W mode for a quasi-perfect linear grayscale.  
 [ABW Profile Maker (GitHub)](https://github.com/doug3236/ABWProfilePatches)  
