@@ -1,8 +1,5 @@
-<h1>
-  <span style="font-size: 1.5em; font-weight: 600; font-style: italic;">« Rêveries »</span> – Fine Art Photography Book
-</h1>
 
-### ***« Rêveries »*** – Fine Art Photography Book
+## ***« Rêveries »*** – Fine Art Photography Book
 
 This page contains the digital reference edition of *Rêveries*, a fine art photography book, and an overview of my workflow.
 
