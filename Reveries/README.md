@@ -59,7 +59,7 @@ When evaluating paper, I consider several key factors:
 
 For profiling, I create **custom ICC profiles** for each paper using **i1Profiler**. I also use **ArgyllCMS** to create **device link profiles**, mapping colors from my **image masters** to the paper’s gamut while preserving color appearance and luminance.  
 
-This is called **[Image Dependent Gamut Mapping](https://argyllcms.com/doc/Scenarios.html#LP3)**, and it's probably one of the most **refined and elegant** approach to bringing my image colors into the printer’s (ink, paper) gamut.
+This is called **[Image Dependent Gamut Mapping](https://argyllcms.com/doc/Scenarios.html#LP3)**, and it's probably one of the most **refined and elegant** approach to bringing my master image colors (ProPhoto RGB) into the printer’s (ink, paper) gamut.
 
 
 ## Black & White Printing
