@@ -32,7 +32,6 @@ Scene-referred development preserves the integrity and authenticity of captured 
 [Photoshop](https://www.adobe.com/ca/products/photoshop.html)<BR> 
 [3DLut Creator](https://3dlutcreator.com/)<BR> 
 [PureRaw](https://www.dxo.com/dxo-pureraw/)<BR> 
-
 [LibRaw](https://www.libraw.org/)<BR> 
 [Argyllcms](https://www.argyllcms.com/)<BR> 
 [DCamProf](https://github.com/Beep6581/dcamprof)<BR> 
