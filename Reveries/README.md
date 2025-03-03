@@ -23,10 +23,11 @@ ETTR (Expose To The Right) The short story, it maximizes the signal-to-noise rat
 
 
 ## RAW Development & Conversion
-Scene-referred development preserves the integrity and authenticity of captured raw sensor data. A [correction LUT](https://3dlutcreator.com/) made from a ColorChecker shot in situ  ensures color and luminance accuracy to even greater levels (ΔE00 < 2). I use mostly DCRaw_emu in combination with PureRaw4 from DXO, and 3DLut Creator, and of course Photoshop. Recently, I created a custom DCP profile from my cameras SSF that I use from Lightroom. This method also benefit from the correction Lut strategy. The actual workflow is a bit complicated, as I use quite a few programs, but the results are worth it. It a bit kind of Ansel Adams of expose to obtain 0.1d (density) above base + fog. If you tried to approach this, you know what I mean.
+Scene-referred development preserves the integrity and authenticity of captured raw sensor data. A correction LUT made from a ColorChecker shot in situ  ensures color and luminance accuracy to even greater levels (ΔE00 < 2). I use mostly DCRaw_emu in combination with PureRaw4 from DXO, and 3DLut Creator, and of course Photoshop. Recently, I created a custom DCP profile from my cameras SSF that I use from Lightroom. This method also benefit from the correction Lut strategy. The actual workflow is a bit complicated, as I use quite a few programs, but the results are worth it. It a bit kind of Ansel Adams of expose to obtain 0.1d (density) above base + fog. If you tried to approach this, you know what I mean.
 
 [Scene-referred vs. Display-referred](https://ninedegreesbelow.com/photography/display-referred-scene-referred.html)   
 [Darktable – Scene-referred workflow](https://docs.darktable.org/usermanual/3.6/en/overview/workflow/edit-scene-referred/)
+[3DLut Creator](https://3dlutcreator.com/)
 
 
 
