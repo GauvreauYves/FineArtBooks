@@ -17,7 +17,7 @@ Yes, this project was born out of the incredible stability of carbon pigment ink
 
 ## Exposure
 ETTR (Expose To The Right) The short story, it maximizes the signal-to-noise ratio (SNR), a measure of quality of an image, and it also maximize the dynamic range.  
-[Learn more about ETTR](https://en.wikipedia.org/wiki/Exposing_to_the_right) |  
+[Learn more about ETTR](https://en.wikipedia.org/wiki/Exposing_to_the_right)  
 [RawDigger – Calibrating exposure for dynamic range](https://www.rawdigger.com/howtouse/calibrate-exposure-meter-to-improve-dynamic-range)
 
 
