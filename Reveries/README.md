@@ -51,7 +51,7 @@ To analyze gamut, black & white points, and other critical ICC profile character
 [GamutVision](http://www.gamutvision.com/modules.php?name=Download)  
 
 When evaluating paper, I consider several key factors:
-- **Gamut**: I choose my printer with 10 or more inks, the more you have, the wider the gamut will be.  
+- **Gamut**: I choose my printer with 10 or more inks, the more you have, the wider the gamut will be. With 10 inks you generally have a printer that can "print" or render colors outside the sRGB and Adobe RGB gamut. In other words it can print color your screen can't sho you. 
 - **DMax**: For matte papers, achieving the deepest black possible is crucial, while glossy papers generally perform well in this regard.  
 - **Paper whiteness**: I favor **warmer papers** (positive **B*** in **CIELab**) over cooler ones (negative **B***).  
 - **Optical Brightening Agents (OBAs)**: I avoid them due to their long-term instability. While OBAs enhance brightness under UV light, they degrade over time, leading to color shifts. For short-term displays, they can be beneficial, but for archival purposes, I steer clear, as UV exposure also affects the permanence of most materials. 
