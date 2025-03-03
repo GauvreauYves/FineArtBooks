@@ -3,8 +3,6 @@
 
 This page contains the digital reference edition of *Rêveries*, a fine art photography book, and an overview of my workflow.
 
-[Download the PDF](./pdf/Reveries.pdf)
-
 
 
 ## The 35,000-Foot Overview
