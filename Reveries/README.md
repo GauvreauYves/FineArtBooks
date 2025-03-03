@@ -3,7 +3,7 @@
 
 This page contains the digital reference edition of *Rêveries*, a fine art photography book, and an overview of my workflow.
 
- 📄 [Download the PDF](https://github.com/GauvreauYves/FineArtBooks/PDF/Reveries.pdf)
+ 📄 [Download the PDF](https://github.com/GauvreauYves/FineArtBooks/blob/main/Reveries/pdf/Reveries.pdf)
 
 https://github.com/GauvreauYves/FineArtBooks
 ## The 35,000-Foot Overview
