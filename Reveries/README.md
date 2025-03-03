@@ -23,7 +23,7 @@ ETTR (Expose To The Right) The short story, it maximizes the signal-to-noise rat
 
 
 ## RAW Development & Conversion
-Scene-referred development preserves the integrity and authenticity of captured raw sensor data. A correction LUT made from a ColorChecker shot in situ  ensures color and luminance accuracy to even greater levels (ΔE00 < 2). I use mostly DCRaw_emu in combination with PureRaw4 from DXO, 3DLut Creator, and of course Photoshop. Recently, I created a custom DCP profile from my cameras SSF that I use from Lightroom. This method also benefit from the correction Lut strategy. The actual workflow is a bit complicated, as I use quite a few programs, but the results are worth it. It a bit kind of Ansel Adams idea of exposing to obtain blacks with a 0.1d (density) above base + fog. If you tried to approach this before, you know what I mean...
+Scene-referred development preserves the integrity and authenticity of captured raw sensor data. A correction LUT made from a ColorChecker shot in situ  ensures color and luminance accuracy to an even greater level (ΔE00 < 2). I use mostly DCRaw_emu in combination with PureRaw4 from DXO, 3DLut Creator, and of course Photoshop. Recently, I created a custom DCP profile from my cameras SSF that I use from Lightroom. This method also benefit from the correction Lut strategy. The actual workflow is a bit complicated, as I use quite a few programs, but the results are worth it. It a bit kind of Ansel Adams idea of exposing to obtain blacks with a 0.1d (density) above base + fog. If you tried to approach this before, you know what I mean...
 
 [Scene-referred vs. Display-referred](https://ninedegreesbelow.com/photography/display-referred-scene-referred.html)   
 [Darktable – Scene-referred workflow](https://docs.darktable.org/usermanual/3.6/en/overview/workflow/edit-scene-referred/)
@@ -50,7 +50,8 @@ To analyze gamut, black & white points, and other critical ICC profile character
 [ColorThink Pro](https://www.chromix.com/colorthink/#overview)  
 [GamutVision](http://www.gamutvision.com/modules.php?name=Download)  
 
-When evaluating paper, I consider several key factors:  
+When evaluating paper, I consider several key factors:
+- **Gamut**: I choose my printer with 10 or more inks, the more you have, the wider the gamut will be.  
 - **DMax**: For matte papers, achieving the deepest black possible is crucial, while glossy papers generally perform well in this regard.  
 - **Paper whiteness**: I favor **warmer papers** (positive **B*** in **CIELab**) over cooler ones (negative **B***).  
 - **Optical Brightening Agents (OBAs)**: I avoid them due to their long-term instability. While OBAs enhance brightness under UV light, they degrade over time, leading to color shifts. For short-term displays, they can be beneficial, but for archival purposes, I steer clear, as UV exposure also affects the permanence of most materials.  
