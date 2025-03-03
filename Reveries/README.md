@@ -28,14 +28,14 @@ Scene-referred development preserves the integrity and authenticity of captured 
 [Scene-referred vs. Display-referred](https://ninedegreesbelow.com/photography/display-referred-scene-referred.html)   
 [Darktable – Scene-referred workflow](https://docs.darktable.org/usermanual/3.6/en/overview/workflow/edit-scene-referred/)
 
-[Lightroom](https://www.adobe.com/ca/products/photoshop-lightroom-classic.html)
-[Photoshop](https://www.adobe.com/ca/products/photoshop.html)
-[3DLut Creator](https://3dlutcreator.com/)
-[PureRaw](https://www.dxo.com/dxo-pureraw/)
+[Lightroom](https://www.adobe.com/ca/products/photoshop-lightroom-classic.html)<BR> 
+[Photoshop](https://www.adobe.com/ca/products/photoshop.html)<BR> 
+[3DLut Creator](https://3dlutcreator.com/)<BR> 
+[PureRaw](https://www.dxo.com/dxo-pureraw/)<BR> 
 
-[LibRaw](https://www.libraw.org/)
-[Argyllcms](https://www.argyllcms.com/)
-[DCamProf](https://github.com/Beep6581/dcamprof)
+[LibRaw](https://www.libraw.org/)<BR> 
+[Argyllcms](https://www.argyllcms.com/)<BR> 
+[DCamProf](https://github.com/Beep6581/dcamprof)<BR> 
 [Camera SSF](https://github.com/COLOR-Lab-Eilat/Spectral-sensitivity-estimation)
 
 
