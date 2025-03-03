@@ -3,7 +3,7 @@
 
 This page contains the digital reference edition of *Rêveries*, a fine art photography book, and an overview of my workflow.
 
- 📄 [Download the PDF](./pdf/Reveries.pdf)
+[Download the PDF](./pdf/Reveries.pdf)
 
 
 
