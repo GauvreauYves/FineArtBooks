@@ -1,8 +1,10 @@
+<span style="font-size:2em; font-weight:bold; font-style:italic;">« Rêveries » – Fine Art Photography Book</span> 
+
 ## ***« Rêveries »*** – Fine Art Photography Book
 
 This page contains the digital reference edition of *Rêveries*, a fine art photography book, and an overview of my workflow.
 
-## 35,000-Foot Overview
+## The 35,000-Foot Overview
 This is a high-level summary of my workflow, covering exposure, RAW development, printing, and archival longevity. Links are provided for further exploration.
 
 
@@ -57,7 +59,7 @@ With my i1 Pro, I create ICC profiles for each paper I'm using, with i1Profiler.
 
 Most printers are RGB-based. Even in B&W modes, they often use color inks. Printer manufacturers optimize for their own papers, leaving third-party papers without ICC profiles for B&W.  
 
-I create B&W-specific ICC profiles with ABWProfileMaker, optimizing the printer’s B&W mode for quasi-perfect linear grayscale.  
+I create B&W-specific ICC profiles with ABWProfileMaker, optimizing the printer’s B&W mode for a quasi-perfect linear grayscale.  
 [ABW Profile Maker (GitHub)](https://github.com/doug3236/ABWProfilePatches)  
 
 For even finer control, QuadTone RIP allows individual ink control for B&W printing only. 
