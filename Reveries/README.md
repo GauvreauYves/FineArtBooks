@@ -54,7 +54,8 @@ When evaluating paper, I consider several key factors:
 - **Gamut**: I choose my printer with 10 or more inks, the more you have, the wider the gamut will be.  
 - **DMax**: For matte papers, achieving the deepest black possible is crucial, while glossy papers generally perform well in this regard.  
 - **Paper whiteness**: I favor **warmer papers** (positive **B*** in **CIELab**) over cooler ones (negative **B***).  
-- **Optical Brightening Agents (OBAs)**: I avoid them due to their long-term instability. While OBAs enhance brightness under UV light, they degrade over time, leading to color shifts. For short-term displays, they can be beneficial, but for archival purposes, I steer clear, as UV exposure also affects the permanence of most materials.  
+- **Optical Brightening Agents (OBAs)**: I avoid them due to their long-term instability. While OBAs enhance brightness under UV light, they degrade over time, leading to color shifts. For short-term displays, they can be beneficial, but for archival purposes, I steer clear, as UV exposure also affects the permanence of most materials. 
+- **Texture**: This is a non-objective caracteristic of the paper, so you are on your own...
 
 For profiling, I create **custom ICC profiles** for each paper using **i1Profiler**. I also use **ArgyllCMS** to create **device link profiles**, mapping colors from my **image masters** to the paper’s gamut while preserving color appearance.  
 
