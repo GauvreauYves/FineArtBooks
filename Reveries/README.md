@@ -12,9 +12,11 @@ This is a high-level summary of my workflow, covering exposure, RAW development,
 
 
 ## About This Project
-From capture to print to your eyes, I do my utmost to ensure that every photon counts, that my prints reveal scenes where light comes alive and awakens deep emotion. This project draws on all my knowledge and expertise. Art, technique, and craftsmanship converge in a perfect synergy, in the pursuit of excellence and permanence.
 
-Yes, this project was born out of the incredible stability of carbon pigment inks. Just imagine: over 400 years of permanence. That's all it took to unite everything around this phenomenal characteristic. In my opinion, you don't put something that can last for centuries in a bag that will degrade in a few months. Hence, the idea of a book, its covers and its archival box, made of noble and archival materials, hand-crafted with great care: a companion, an accomplice, a messenger of time itself.
+From capture to print to your eyes, I do my utmost to ensure that every photon counts, that my prints reveal scenes where light comes alive and awakens deep emotion. This project draws on all my knowledge and expertise. Art, technique, and craftsmanship converge in perfect synergy, in the pursuit of excellence and permanence.
+
+This project was born out of the incredible stability of carbon pigment inks. Just imagine: over 400 years of permanence. That was all it took to unite everything around this phenomenal characteristic. Hence, the idea of a book, its covers, and its archival box, made of noble and archival materials, hand-crafted with great care: a companion, an accomplice, a messenger of time itself.
+
 
 
 
@@ -82,7 +84,7 @@ With all this being said, I've chosen to use Hahnemühle Photo Rag 188 gsm, a li
 
 ## Black & White Printing
 
-Most printers are RGB-based. Even with B&W modes, they recommand using RGB images, for best results. Printer manufacturers optimize this mode for their own papers, leaving third-party papers without ICC profiles for B&W.  
+Most printers are RGB-based. Even with B&W modes, it's recommand using RGB images, for best results. Printer manufacturers optimize this mode for their own papers, leaving third-party papers without ICC profiles for B&W.  
 
 I create B&W-specific ICC profiles with ABWProfileMaker, optimizing the printer’s B&W mode for a quasi-perfect linear grayscale.  
 [ABW Profile Maker (GitHub)](https://github.com/doug3236/ABWProfilePatches)  
