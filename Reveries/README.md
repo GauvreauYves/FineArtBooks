@@ -71,7 +71,8 @@ For profiling, I create custom ICC profiles for each paper using i1Profiler. I a
 
 This is called "Image Dependent Gamut Mapping" , and it's probably one of the most refined and elegant approach to bringing my master image colors (ProPhoto RGB) into the printer’s (ink, paper) gamut.
 
-[Image Dependent Gamut Mapping](https://argyllcms.com/doc/Scenarios.html#LP3)
+[Image Dependent Gamut Mapping](https://argyllcms.com/doc/Scenarios.html#LP3)<br>
+[Image Dependent Gamut Mapping (papers)](https://www.google.ca/search?q=%22image+dependent+gamut+mapping%22&rlz=1C2CHZN_enCA979CA979&sca_esv=d0d3ba676e08ed7a&sxsrf=AHTn8zp9IQt8upU5d-r_GmzLF-i5vH80SA%3A1741013460696&ei=1MHFZ66dKqbcptQPovrgYA&ved=0ahUKEwiu1_7GlO6LAxUmrokEHSI9GAwQ4dUDCBA&uact=5&oq=%22image+dependent+gamut+mapping%22&gs_lp=Egxnd3Mtd2l6LXNlcnAiHyJpbWFnZSBkZXBlbmRlbnQgZ2FtdXQgbWFwcGluZyIyBxAjGCcYrgJIzHtQAFindnABeAGQAQCYAaQBoAHDGKoBBTE4LjE0uAEDyAEA-AEBmAIgoAKrGcICChAjGIAEGCcYigXCAgQQIxgnwgIQEAAYgAQYsQMYQxiDARiKBcICBRAAGIAEwgIREC4YgAQYsQMY0QMYgwEYxwHCAgsQLhiABBjRAxjHAcICCxAAGIAEGJECGIoFwgIOEAAYgAQYsQMYgwEYigXCAggQABiABBixA8ICCxAAGIAEGLEDGIMBwgINEAAYgAQYsQMYQxiKBcICChAAGIAEGEMYigXCAgYQABgWGB7CAggQABgWGAoYHsICCxAAGIAEGIYDGIoFwgIFECEYoAGYAwCSBwUxMi4yMKAH8qMB&sclient=gws-wiz-serp)
 
 With all this being said, I've chosen to use Hahnemühle Photo Rag 188 gsm, a little brother of the world renoun Photo Rag 308 gsm paper. An ISO-9706-1994 compliant paper.
 
