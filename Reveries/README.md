@@ -110,4 +110,4 @@ For performance data using the Epson ABW mode with the P700, see Table 2 in the 
 
 A print isn’t just ink on paper; it’s the culmination of a process, an intention, and an experience.
 
-The pursuit of excellence in printing is never-ending, but the goal is not just technical accuracy. The print must *live* and *breathe*, otherwise, it's just a piece of paper with black dot on it.
+The pursuit of excellence in printing is never-ending, but the goal is not just technical accuracy. The print must *live* and *breathe*, otherwise, it's just a piece of paper with black dots on it.
