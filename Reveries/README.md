@@ -9,21 +9,21 @@ This is a high-level summary of my workflow, covering exposure, RAW development,
 
 
 ## About This Project
-From capture to print to your eyes, I do my utmost to ensure that every photon counts, that my prints reveal scenes where light comes alive and awakens deep emotion. This project draws on all my knowledge and expertise. Art, technique and craftsmanship come together in a quest where time itself becomes raw material.
-Yes, this project was born of the incredible stability of carbon pigment inks. Just imagine: over 400 years of permanence. That's all it took to unite everything around this phenomenal characteristic.
-In my opinion, you don't put something that can last for centuries in a bag that will degrade in a few months. Hence, the idea of a book, its covers and its box, made of noble and archival materials, hand-crafted with great care: a companion, an accomplice, a messenger of time itself.
+From capture to print to your eyes, I do my utmost to ensure that every photon counts, that my prints reveal scenes where light comes alive and awakens deep emotion. This project draws on all my knowledge and expertise. Art, technique, and craftsmanship converge in a perfect synergy, in the pursuit of excellence and permanence.
+
+Yes, this project was born out of the incredible stability of carbon pigment inks. Just imagine: over 400 years of permanence. That's all it took to unite everything around this phenomenal characteristic. In my opinion, you don't put something that can last for centuries in a bag that will degrade in a few months. Hence, the idea of a book, its covers and its box, made of noble and archival materials, hand-crafted with great care: a companion, an accomplice, a messenger of time itself.
 
 
 
 ## Exposure
-ETTR (Expose To The Right) maximizes the signal-to-noise ratio (SNR), the measure of quality of the image.  
+ETTR (Expose To The Right) The short story, it maximizes the signal-to-noise ratio (SNR), a measure of quality of an image, and it also maximize the dynamic range.  
 [Learn more about ETTR](https://en.wikipedia.org/wiki/Exposing_to_the_right) |  
 [RawDigger – Calibrating exposure for dynamic range](https://www.rawdigger.com/howtouse/calibrate-exposure-meter-to-improve-dynamic-range)
 
 
 
 ## RAW Development & Conversion
-Scene-referred development preserves the integrity of raw sensor data. A [3D LUT](https://3dlutcreator.com/) from a ColorChecker ensures color and luminance accuracy (ΔE00 < 2).  
+Scene-referred development preserves the integrity and authenticity of raw sensor data. A [correction LUT](https://3dlutcreator.com/) made from a ColorChecker ensures color and luminance accuracy (ΔE00 < 2).  
 [Scene-referred vs. Display-referred](https://ninedegreesbelow.com/photography/display-referred-scene-referred.html) |  
 [Darktable – Scene-referred workflow](https://docs.darktable.org/usermanual/3.6/en/overview/workflow/edit-scene-referred/)
 
@@ -39,18 +39,35 @@ Just as my development process is meticulously calibrated, my printing process i
 
 [ICC White Papers](https://www.color.org/whitepapers.xalter)
 
-## ICC Profiling & Paper Selection
+##  Paper Selection & ICC Profiling
 
 I'm using an i1 Pro 2 spectrophotometer for all my color management work.  
-[i1 Pro 2 – X-Rite](https://www.xrite.com/categories/calibration-profiling/i1photo-pro-2)
+[i1 Pro 2 – X-Rite](https://www.xrite.com/categories/calibration-profiling/i1photo-pro-2) 
 
-I avoid papers with Optical Brightening Agents (OBAs) due to their long-term instability. While they enhance brightness under certain lighting conditions, OBAs degrade over time, causing color shifts. For short-term displays, they can work fine. For archival prints, I avoid them.  
-
-I use ColorThink Pro and GamutVision to analyze gamut, black & white points, and other critical characteristics.  
+I use ColorThink Pro and GamutVision to analyze gamut, black & white points, and other critical characteristics I extract from ICC Profiles.  
 [ColorThink Pro](https://www.chromix.com/colorthink/#overview)  
 [GamutVision](http://www.gamutvision.com/modules.php?name=Download)
 
-With my i1 Pro, I create ICC profiles for each paper I'm using, with i1Profiler. I also use ArgyllCMS for device link profiles, mapping colors from my image masters to the paper’s gamut while preserving color appearance. This is called [Image Dependent Gamut Mapping](https://argyllcms.com/doc/Scenarios.html#LP3) 
+Other criterias I look for, the DMax for more or less matte papers, for more or less glossy papers, the DMax is usually very good. For the whiteness of the paper, I prefer a paper that is warm eg. positive B*. 
+
+I avoid papers with Optical Brightening Agents (OBAs) due to their long-term instability, they also have a cooler look, (B* in the minus). While they enhance brightness under certain lighting conditions, presence of UV, OBAs degrade over time, causing color shifts. For short-term displays, they can work fine. For archival prints, since UV also affect the permanance of most material, I avoid them. 
+
+
+With my i1 Pro, I create ICC profiles for each paper I'm using, with i1Profiler. I also use ArgyllCMS to create device link profiles, mapping colors from my image masters to the paper’s gamut while preserving color appearance. This is called [Image Dependent Gamut Mapping](https://argyllcms.com/doc/Scenarios.html#LP3) and it's probably the most refined and elegant approach to bring my image colors into the printer (ink, paper) gamut.
+
+I use an **i1 Pro 2 spectrophotometer** for all my color management work.  
+[i1 Pro 2 – X-Rite](https://www.xrite.com/categories/calibration-profiling/i1photo-pro-2)  
+
+To analyze gamut, black & white points, and other critical ICC profile characteristics, I use **ColorThink Pro** and **GamutVision**:  
+[ColorThink Pro](https://www.chromix.com/colorthink/#overview)  
+[GamutVision](http://www.gamutvision.com/modules.php?name=Download)  
+
+When evaluating paper, I consider several key factors:  
+- **DMax**: For matte papers, achieving the deepest black possible is crucial, while glossy papers generally perform well in this regard.  
+- **Paper whiteness**: I favor **warmer papers** (positive B*) over cooler ones.  
+- **Optical Brightening Agents (OBAs)**: I avoid them due to their long-term instability. While OBAs enhance brightness under UV light, they degrade over time, leading to color shifts. For short-term displays, they can be beneficial, but for archival purposes, I steer clear, as UV exposure also affects the permanence of most materials.  
+
+For profiling, I create **custom ICC profiles** for each paper using **i1Profiler**. Additionally, I use **ArgyllCMS** to generate **device link profiles**, mapping colors from my **image masters** to the paper’s gamut while preserving color appearance. This technique, known as **[Image Dependent Gamut Mapping](https://argyllcms.com/doc/Scenarios.html#LP3)**, is one of the most refined and precise approaches to optimizing color reproduction within the printer’s ink and paper limitations.  
 
 
 
