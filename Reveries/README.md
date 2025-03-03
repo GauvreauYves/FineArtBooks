@@ -29,7 +29,8 @@ Scene-referred development preserves the integrity and authenticity of captured 
 [Darktable – Scene-referred workflow](https://docs.darktable.org/usermanual/3.6/en/overview/workflow/edit-scene-referred/)
 
 [Lightroom](https://www.adobe.com/ca/products/photoshop-lightroom-classic.html)
-[Pnhotoshop](https://www.adobe.com/ca/products/photoshop.html)
+[Photoshop](https://www.adobe.com/ca/products/photoshop.html)
+
 [3DLut Creator](https://3dlutcreator.com/)
 [PureRaw](https://www.dxo.com/dxo-pureraw/)
 
