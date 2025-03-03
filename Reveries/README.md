@@ -80,7 +80,7 @@ A perfectly neutral and linear grayscale print is the foundation. Giving it a so
 
 
 
-## Print Longevity – Epson SureColor P700 & Carbon-Based Inks
+## Print Longevity – Epson SureColor P700
 
 I chose the Epson SureColor P700 for its carbon-based pigment black inks and their extraordinary longevity.
 
