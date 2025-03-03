@@ -41,16 +41,21 @@ Just as my development process is meticulously calibrated, my printing process i
 
 ##  Paper Selection & ICC Profiling
 
-I'm using an i1 Pro 2 spectrophotometer for all my color management work.  
-[i1 Pro 2 – X-Rite](https://www.xrite.com/categories/calibration-profiling/i1photo-pro-2) 
+I use an **i1 Pro 2 spectrophotometer** for all my color management work.  
+[i1 Pro 2 – X-Rite](https://www.xrite.com/categories/calibration-profiling/i1photo-pro-2)  
 
-I use ColorThink Pro and GamutVision to analyze gamut, black & white points, and other critical characteristics I extract from ICC Profiles.  
+To analyze gamut, black & white points, and other critical ICC profile characteristics, I use **ColorThink Pro** and **GamutVision**:  
 [ColorThink Pro](https://www.chromix.com/colorthink/#overview)  
-[GamutVision](http://www.gamutvision.com/modules.php?name=Download)
+[GamutVision](http://www.gamutvision.com/modules.php?name=Download)  
 
-Other criterias I look for, the DMax for more or less matte papers, for more or less glossy papers, the DMax is usually very good. For the whiteness of the paper, I prefer a paper that is warm eg. positive B*. 
+When evaluating paper, I consider several key factors:  
+- **DMax**: For matte papers, achieving the deepest black possible is crucial, while glossy papers generally perform well in this regard.  
+- **Paper whiteness**: I favor **warmer papers** (positive **B*** in **CIELab**) over cooler ones (negative **B***).  
+- **Optical Brightening Agents (OBAs)**: I avoid them due to their long-term instability. While OBAs enhance brightness under UV light, they degrade over time, leading to color shifts. For short-term displays, they can be beneficial, but for archival purposes, I steer clear, as UV exposure also affects the permanence of most materials.  
 
-I avoid papers with Optical Brightening Agents (OBAs) due to their long-term instability, they also have a cooler look, (B* in the minus). While they enhance brightness under certain lighting conditions, presence of UV, OBAs degrade over time, causing color shifts. For short-term displays, they can work fine. For archival prints, since UV also affect the permanance of most material, I avoid them. 
+For profiling, I create **custom ICC profiles** for each paper using **i1Profiler**. I also use **ArgyllCMS** to create **device link profiles**, mapping colors from my **image masters** to the paper’s gamut while preserving color appearance.  
+
+This is called **[Image Dependent Gamut Mapping](https://argyllcms.com/doc/Scenarios.html#LP3)**, and it's probably one of the most **refined and elegant** approach to bringing my image colors into the printer’s (ink, paper) gamut.
 
 
 I use an **i1 Pro 2 spectrophotometer** for all my color management work.  
@@ -65,7 +70,7 @@ When evaluating paper, I consider several key factors:
 - **Paper whiteness**: I favor **warmer papers** (positive **B*** in **CIELab**) over cooler ones (negative **B***).  
 - **Optical Brightening Agents (OBAs)**: I avoid them due to their long-term instability. While OBAs enhance brightness under UV light, they degrade over time, leading to color shifts. For short-term displays, they can be beneficial, but for archival purposes, I steer clear, as UV exposure also affects the permanence of most materials.  
 
-For profiling, I create **custom ICC profiles** for each paper using **i1Profiler**. Additionally, I use **ArgyllCMS** to generate **device link profiles**, mapping colors from my **image masters** to the paper’s gamut while preserving color appearance. This technique, known as **[Image Dependent Gamut Mapping](https://argyllcms.com/doc/Scenarios.html#LP3)**, is one of the most refined and precise approaches to optimizing color reproduction within the printer’s ink and paper limitations.  
+For profiling, I create **custom ICC profiles** for each paper using **i1Profiler**. Additionally, I use **ArgyllCMS** to generate **device link profiles**, mapping colors from my **image masters** to the paper’s gamut while preserving color appearance. This technique, known as **[Image Dependent Gamut Mapping](https://argyllcms.com/doc/Scenarios.html#LP3)**, is one of the most refined and precise approaches to optimize color reproduction within the printer’s ink and paper limitations.  
 
 
 
