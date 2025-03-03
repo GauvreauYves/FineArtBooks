@@ -27,7 +27,16 @@ Scene-referred development preserves the integrity and authenticity of captured 
 
 [Scene-referred vs. Display-referred](https://ninedegreesbelow.com/photography/display-referred-scene-referred.html)   
 [Darktable – Scene-referred workflow](https://docs.darktable.org/usermanual/3.6/en/overview/workflow/edit-scene-referred/)
+
+[Lightroom](https://www.adobe.com/ca/products/photoshop-lightroom-classic.html)
+[Pnhotoshop](https://www.adobe.com/ca/products/photoshop.html)
 [3DLut Creator](https://3dlutcreator.com/)
+[PureRaw](https://www.dxo.com/dxo-pureraw/)
+
+[LibRaw](https://www.libraw.org/)
+[Argyllcms](https://www.argyllcms.com/)
+[DCamProf](https://github.com/Beep6581/dcamprof)
+[Camera SSF](https://github.com/COLOR-Lab-Eilat/Spectral-sensitivity-estimation)
 
 
 
@@ -85,6 +94,7 @@ A perfectly neutral and linear grayscale print is the foundation. Giving it a so
 I chose the Epson SureColor P700 for its carbon-based pigment black inks and their extraordinary longevity.
 
 For performance data using the Epson ABW mode with the P700, see Table 2 in the Wilhelm Imaging Research report. B&W prints can last over 400 years under proper conditions. A book completely shields the prints from light, especially when stored in a box. 
+
 [Wilhelm Imaging Research – Epson SureColor P700 & P900](https://www.wilhelm-research.com/epson/WIR_Epson_SureColor_P700_and_P900_Printers_2021_07_23.pdf)
 
 
