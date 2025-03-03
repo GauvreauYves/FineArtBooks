@@ -2,9 +2,9 @@
 This repository contains digital reference editions and details about the fine art books created by Yves Gauvreau.
 
 ## Available Books
-- [Rêveries de noir et de blanc](Reveries/)
+- [Rêveries](Reveries/)
 - [Floralis](Floralis/)
-- [Songes noir et blanc](Songes/)
+- [Songes](Songes/)
 
 ## Digital Editions
 Each book has a digital reference edition available in its respective folder.

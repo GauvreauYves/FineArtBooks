@@ -118,3 +118,13 @@ For performance data using the Epson ABW mode with the P700, see Table 2 in the 
 A print isn’t just ink on paper; it’s the culmination of a process, an intention, and an experience.
 
 The pursuit of excellence in printing is never-ending, but the goal is not just technical accuracy. The print must *live* and *breathe*, otherwise, it's just a piece of paper with black dots on it.
+
+This work is licensed under a **Creative Commons Attribution-NonCommercial-ShareAlike (CC BY-NC-SA) License**.  
+This means you are free to **share and adapt** this work **for non-commercial purposes**, as long as you **credit the original author** and **distribute any modified versions under the same license**.
+
+These digital editions are **low-resolution references only** and do not represent the quality of the physical fine art prints.
+
+🔗 [Read the full license details here](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+
+⬅️ [Back to the main library](../README.md)

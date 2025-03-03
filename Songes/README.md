@@ -1,12 +1,12 @@
 # 📖 Songes noir et blanc – Fine Art Photography Book
 
-Welcome! This page contains the digital reference edition of *Songes noir et blanc*, a fine art photography book.
+Welcome! This page contains the digital reference edition of *Songes*, a fine art photography book.
 
 ## 📥 Download the Digital Edition
 [Click here to download the PDF](https://github.com/GauvreauYves/FineArtBooks/raw/main/Songes/pdf/SongesNB.pdf)
 
 ## 📚 Other Books
-- [📖 Rêveries de noir et de blanc](../Reveries/README.md)
+- [📖 Rêveries](../Reveries/README.md)
 - [📖 Floralis](../Floralis/README.md)
 
 ## 📜 License & Usage
