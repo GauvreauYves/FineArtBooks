@@ -120,7 +120,7 @@ A print isn’t just ink on paper; it’s the culmination of a process, an inten
 The pursuit of excellence in printing is never-ending, but the goal is not just technical accuracy. The print must *live* and *breathe*, otherwise, it's just a piece of paper with black dots on it.
 
 
-## License
+## License & Usage
 
 This work is licensed under a **Creative Commons Attribution-NonCommercial-ShareAlike (CC BY-NC-SA) License**.  
 This means you are free to share and adapt this work for non-commercial purposes, as long as you credit the original author and distribute any modified versions under the same license.

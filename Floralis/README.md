@@ -12,7 +12,7 @@ Welcome! This page contains the digital reference edition of *Floralis*, a fine 
 ## License & Usage
 
 This work is licensed under a **Creative Commons Attribution-NonCommercial-ShareAlike (CC BY-NC-SA) License**.  
-This means you are free to **share and adapt** this work **for non-commercial purposes**, as long as you **credit the original author** and **distribute any modified versions under the same license**.
+This means you are free to share and adapt this work for non-commercial purposes, as long as you credit the original author and distribute any modified versions under the same license.
 
 These digital editions are low-resolution references only and do not represent the quality of the physical fine art prints.
 
