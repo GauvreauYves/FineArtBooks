@@ -127,7 +127,7 @@ This means you are free to **share and adapt** this work **for non-commercial pu
 
 These digital editions are **low-resolution references only** and do not represent the quality of the physical fine art prints.
 
-🔗 [Read the full license details here](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+[Read the full license details here](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 
-⬅️ [Back to the main library](../README.md)
+[Back to the main library](../README.md)
