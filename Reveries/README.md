@@ -91,7 +91,7 @@ With all this being said, I've chosen to use Hahnemühle Photo Rag 188 gsm, a li
 
 ## Black & White Printing
 
-Most printers are RGB-based. Even with B&W modes, it's recommended using RGB images, for best results. Printer manufacturers optimize this mode for their own papers, leaving third-party papers without ICC profiles for B&W.  
+Most printers are RGB-based. Even with B&W modes, it's recommended using RGB images (R=G=B), for best results. Printer manufacturers optimize this mode for their own papers, leaving third-party papers without ICC profiles for B&W.  
 
 I create B&W-specific ICC profiles with ABWProfileMaker, optimizing the printer’s B&W mode for a quasi-perfect linear grayscale.  
 [ABW Profile Maker (GitHub)](https://github.com/doug3236/ABWProfilePatches)  
