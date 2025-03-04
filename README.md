@@ -2,8 +2,8 @@
 This repository contains digital reference editions and details about the fine art books created by Yves Gauvreau.
 
 ## Available Books
-[Rêveries](Reveries/)
-[Floralis](Floralis/)
+[Rêveries](Reveries/)<BR>
+[Floralis](Floralis/)<BR>
 [Songes](Songes/)
 
 ## Digital Editions
