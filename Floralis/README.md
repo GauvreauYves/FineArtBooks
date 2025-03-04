@@ -9,7 +9,7 @@ Welcome! This page contains the digital reference edition of *Floralis*, a fine 
 [Rêveries](../Reveries/README.md)
 [Songes](../Songes/README.md)
 
-## 📜 License & Usage
+## License & Usage
 
 This work is licensed under a **Creative Commons Attribution-NonCommercial-ShareAlike (CC BY-NC-SA) License**.  
 This means you are free to **share and adapt** this work **for non-commercial purposes**, as long as you **credit the original author** and **distribute any modified versions under the same license**.
