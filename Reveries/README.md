@@ -7,7 +7,7 @@ This page contains the digital reference edition of *Rêveries*, a fine art phot
 
 
 ## The 35,000-Foot Overview
-This is a high-level summary of my workflow, covering exposure, RAW development, printing, and archival longevity. Links are provided for further exploration.
+This is a high-level summary of my workflow, covering exposure, RAW development, printing, and archival details. Links are provided for further exploration.
 
 
 
@@ -66,17 +66,17 @@ To analyze gamut, black & white points, and other critical ICC profile character
 When evaluating paper, I consider several key factors:
 - **Gamut**: I choose my printer with 10 or more inks, the more you have, the wider the gamut will be. With 10 inks you generally have a printer that can "print" or render colors outside the sRGB and Adobe RGB gamut. In other words it can print color your screen can't show you accurately. 
 - **DMax**: For matte papers, achieving the deepest black possible is crucial, while glossy papers generally perform well in this regard.  
-- **Paper whiteness**: I favor warmer papers (positive B* in CIELab) over cooler ones (negative B*).  
+- **Paper whiteness**: I favor warmer papers (positive B* in CIELab) over cooler ones (negative B*) and L* as high as possible.  
 - **Optical Brightening Agents (OBAs)**: I avoid them due to their long-term instability. While OBAs enhance brightness under UV light, they degrade over time, leading to color shifts. For short-term displays, they can be beneficial, but for archival purposes, I steer clear, as UV exposure also affects the permanence of most materials. 
 - **Texture**: This is a non-objective characteristic of the paper, so you are on your own...
 
 For profiling, I create custom ICC profiles for each paper using i1Profiler. I also use ArgyllCMS to create device link profiles, mapping colors from my image masters to the paper’s gamut while preserving color appearance and luminance.  
 
-This is called "Image Dependent Gamut Mapping" , and it's probably one of the most refined and elegant approach to bringing my master image colors (ProPhoto RGB) into the printer’s (ink, paper) gamut.
+This is called "Image Dependent Gamut Mapping" , and it's probably one of the most refined and elegant approach to bringing my master image colors (ProPhoto RGB) into the printer’s (ink, paper) gamut, without creating a mess.
 
 ### **Why Image Dependent Gamut Mapping?**  
 
-I do a lot of flowers photography and they often, if not always exhibit extreme saturation levels that exceed the gamut of most display and print color spaces. Default gamut mapping methods can sometimes cause unwanted compression, loss of color relationships, or shifts in hue. To ensure my prints faithfully represent my original image without unnecessary distortions, I use **Image Dependent Gamut Mapping**.  
+I do a lot of flowers photography and they often, if not always exhibit extreme saturation levels that exceed the gamut of most display and print colorspaces. Default gamut mapping methods can sometimes cause unwanted compression, loss of color relationships, or shifts in hue. To ensure my prints represent my original image without unnecessary distortions, I use **Image Dependent Gamut Mapping**.  
 
 This method selectively maps colors to the printer's gamut while preserving their relative appearance as naturally as possible. By automating this process with a batch workflow, I maintain full control while keeping efficiency high and ensuring optimal results in every print.
 
@@ -99,7 +99,7 @@ I create B&W-specific ICC profiles with ABWProfileMaker, optimizing the printer�
 For even finer control of the neutrality, QuadTone RIP allows individual ink control for B&W printing only.  
 [QuadTone RIP](http://www.quadtonerip.com/)
 
-A perfectly neutral and linear grayscale print is the foundation. Giving it a soul, well this is up to you now.
+A perfectly neutral and linear grayscale print is just the foundation. Giving it a soul, well this is up to you now.
 
 
 
@@ -117,7 +117,7 @@ For performance data using the Epson ABW mode with the P700, see Table 2 in the 
 
 A print isn’t just ink on paper; it’s the culmination of a process, an intention, and an experience.
 
-The pursuit of excellence in printing is never-ending, but the goal is not just technical accuracy. The print must *live* and *breathe*, otherwise, it's just a piece of paper with black dots on it.
+My pursuit of excellence in printing is never-ending, but the goal is not just technical accuracy. The print must *live* and *breathe*, otherwise, it's just a piece of paper with black dots on it.
 
 
 ## License & Usage
@@ -125,7 +125,7 @@ The pursuit of excellence in printing is never-ending, but the goal is not just 
 This work is licensed under a **Creative Commons Attribution-NonCommercial-ShareAlike (CC BY-NC-SA) License**.  
 This means you are free to share and adapt this work for non-commercial purposes, as long as you credit the original author and distribute any modified versions under the same license.
 
-These digital editions are low-resolution references only and do not represent the quality of the physical fine art prints.
+These digital editions are low-resolution references only and do not represent the quality of the physical fine art prints I'm using for the books.
 
 [Read the full license details here](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
