@@ -27,10 +27,10 @@ Every element in this project has been carefully selected for its **archival sta
 
 ## Interleaving Sheets
 
-- **Material:** Kozo (Japanese mulberry paper)  
-  *(Extremely thin, strong, acid-free, handmade from renewable fibers)*  
+- **Material:** Kozo 30 gsm (Japanese mulberry paper)  
+  *(Extremely thin, strong, acid-free, made from renewable fibers)*  
 - **Purpose:** Prevents abrasion between facing prints without altering visual balance  
-- **Reference:** [Japanese Paper Place – Kozo](https://www.japanesepaperplace.com/collections/kozo-paper)
+- **Reference:** [Japanese Paper Place – Kozo](https://www.japanesepaperplace.com/haini-kozo-37-5g-custom-10m/)
 
 ---
 
@@ -52,7 +52,7 @@ Every element in this project has been carefully selected for its **archival sta
   - [ABW Profile Maker (GitHub)](https://github.com/doug3236/ABWProfilePatches)  
   - [QuadTone RIP](http://www.quadtonerip.com/)
 
-- **Purpose:** To achieve near-neutral grayscale tones with minimal color ink usage and high DMax on matte paper
+- **Purpose:** To achieve near-neutral and quasi perfect linear grayscale tones with minimal color ink usage.
 
 ---
 
@@ -63,7 +63,7 @@ Every element in this project has been carefully selected for its **archival sta
 - **Thread:** Linen or waxed cotton thread  
   *(Traditional bookbinding material known for flexibility and strength)*
 
-- **Adhesives:** Only archival, acid-free adhesives used in spine construction and cover application
+- **Adhesives:** Only archival, acid-free adhesives such as wheat starch paste were used
 
 ---
 
@@ -72,25 +72,33 @@ Every element in this project has been carefully selected for its **archival sta
 - **Outer Material:** Vegetable-tanned leather  
   *(Free from synthetic chemicals, ages gracefully, and safe for long-term contact with paper)*
 
+- **Pigmentation:** Natural pigments used to color the leather  
+  *(Chosen for their stability and resistance to chemical degradation or fading over time)*  
+
 - **Interior Lining:** Archival cotton canvas  
-  *(Soft, breathable, and compatible with leather—minimizes internal abrasion)*
+  *(Soft, breathable, and compatible with leather. The lining is both hand-sewn and adhered using wheat starch paste to ensure strength and long-term structural integrity while maintaining full archival reversibility.)*
+
+  
+- **Book Wrap:** 100% natural cotton cloth  
+  *(Used to gently wrap the book inside the clamshell box, offering additional protection from dust and light. Unbleached and untreated to ensure archival compatibility.)*
 
 ---
 
 ### Custom Tooling
 
-- **Metal Stamp:** Handmade tool created for imprinting the **book title**, **year**, and a **unique design motif** on the front cover
+- **Maple Stamp:** Handmade tool created for imprinting the **book title**, **year**, and a **unique design motif** on the front cover + a hand punched edition number
+
 - **Purpose:** Enhances uniqueness and visual identity of each copy while maintaining minimalism
 
 ---
 
 ## Clamshell Archival Box
 
-- **Construction:** Handmade using archival boards and acid-free adhesives
-- **Lining:** Cotton cloth or pH-neutral paper
+- **Construction:** [Handmade using 100% cotton archival boards and acid-free adhesives](https://www.peterboromatboards.com/product-museum.php)
+
 - **Features:**
-  - Spacer sheets to protect the book from pressure when closed
-  - Envelope containing summary sheet (see below)
+
+  - Envelope containing summary sheet (see below) and a few spare interleave sheets
 
 ---
 
@@ -111,5 +119,5 @@ Every element in this project has been carefully selected for its **archival sta
 ---
 
 _For any future updates or technical details, this page will remain the primary reference._  
-_Last updated: {{insert current date}}_
+_Last updated: {{mars 21 2025}}_
 
