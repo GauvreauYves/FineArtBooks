@@ -1,7 +1,5 @@
 
-## *** Rêveries *** 
-
-– Fine Art Photography Book
+## Rêveries 
 
 This page contains the digital reference edition of *Rêveries*, a fine art photography book, and an overview of my workflow.
 
@@ -121,6 +119,9 @@ A print isn’t just ink on paper; it’s the culmination of a process, an inten
 
 My pursuit of excellence in printing is never-ending, but the goal is not just technical accuracy. The print must *live* and *breathe*, otherwise, it's just a piece of paper with black dots on it.
 
+## Materials and archival practices
+
+[Details here](MATERIALS.md)
 
 ## License & Usage
 
