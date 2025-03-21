@@ -19,8 +19,8 @@ Every element in this project has been carefully selected for its **archival sta
 - **Printed Pages:** [Hahnemühle Photo Rag 188 gsm] (https://www.hahnemuehle.ca/photo-rag/) 
   *(100% cotton, acid-free, lignin-free, ISO 9706 certified)*  
 - **OBAs (Optical Brightening Agents):** None  
-  *(To avoid yellowing and fiber degradation over time)*
-   [Just have a look at the second column here](http://www.wilhelm-research.com/Canson/WIR_Canson_Fine_Art_and_Photo_Papers_Final_Report_2020-06-01.pdf)  
+  *(UV light cause degradation of many material over time, for long term purposes, it should be avoided)*
+   [Just have a look at the second column here compared to the first one](http://www.wilhelm-research.com/Canson/WIR_Canson_Fine_Art_and_Photo_Papers_Final_Report_2020-06-01.pdf)  
 - **Standard Compliance:** [ISO 9706 – Archival Paper Standard](https://cdn.standards.iteh.ai/samples/17562/34a23f9c75e44bc0a5b582d3f3608d35/ISO-9706-1994.pdf)
 
 ---
@@ -37,12 +37,12 @@ Every element in this project has been carefully selected for its **archival sta
 ## Color Management & ICC Profiling
 
 - **Spectrophotometer:** X-Rite i1 Pro 2  
-  *(Used for profiling paper/printer combinations)*  
+  *(Used for profiling screen and paper/printer combinations)*  
   [X-Rite i1 Pro 2](https://www.xrite.com/categories/calibration-profiling/i1photo-pro-2)
 
 - **Gamut Analysis Tools:**  
   - [ColorThink Pro](https://www.chromix.com/colorthink/#overview)  
-  - [GamutVision](http://www.gamutvision.com/modules.php?name=Download)
+  - [GamutVision (free)](http://www.gamutvision.com/modules.php?name=Download)
 
 ---
 
@@ -78,7 +78,6 @@ Every element in this project has been carefully selected for its **archival sta
 - **Interior Lining:** Archival cotton canvas  
   *(Soft, breathable, and compatible with leather. The lining is both hand-sewn and adhered using wheat starch paste to ensure strength and long-term structural integrity while maintaining full archival reversibility.)*
 
-  
 - **Book Wrap:** 100% natural cotton cloth  
   *(Used to gently wrap the book inside the clamshell box, offering additional protection from dust and light. Unbleached and untreated to ensure archival compatibility.)*
 
@@ -86,7 +85,7 @@ Every element in this project has been carefully selected for its **archival sta
 
 ### Custom Tooling
 
-- **Maple Stamp:** Handmade tool created for imprinting the **book title**, **year**, and a **unique design motif** on the front cover + a hand punched edition number
+- **Maple or metal Stamp:** CNC made tool created for imprinting the **book title**, **year**, and a **unique design motif** on the front cover + a hand punched edition number
 
 - **Purpose:** Enhances uniqueness and visual identity of each copy while maintaining minimalism
 
@@ -98,7 +97,7 @@ Every element in this project has been carefully selected for its **archival sta
 
 - **Features:**
 
-  - Envelope containing summary sheet (see below) and a few spare interleave sheets
+  - Envelope containing a material summary sheet (see below) and a few spare interleave sheets
 
 ---
 
@@ -119,5 +118,5 @@ Every element in this project has been carefully selected for its **archival sta
 ---
 
 _For any future updates or technical details, this page will remain the primary reference._  
-_Last updated: {{mars 21 2025}}_
+_Last updated: Mars 21 2025_
 
