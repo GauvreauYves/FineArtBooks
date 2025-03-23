@@ -5,6 +5,10 @@ This page contains the digital reference edition of *Rêveries*, a fine art phot
 
 [Click here to download the PDF](https://github.com/GauvreauYves/FineArtBooks/raw/main/Reveries/pdf/ReveriesBilingueFinal_v2.0.pdf)
 
+### Other Books
+
+📘 [Floralis – Fine Art Photography Book](../Floralis/README.md)
+
 
 ## The 35,000-Foot Overview
 This is a high-level summary of my workflow, covering exposure, RAW development, printing, and archival details. Links are provided for further exploration.
