@@ -3,8 +3,8 @@ This repository contains digital reference editions and details about the fine a
 
 ## Available Books
 
-• [Floralis](../Floralis)  
-• [Rêveries](../Reveries)
+• [Floralis](Floralis)  
+• [Rêveries](Reveries)
 
 
 ## Digital Editions
