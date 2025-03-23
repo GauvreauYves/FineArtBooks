@@ -6,7 +6,8 @@ Welcome! This page contains the digital reference edition of *Floralis*, a fine 
 [Click here to download the Floralis PDF](https://github.com/GauvreauYves/FineArtBooks/raw/main/Floralis/pdf/Floralis.pdf)
 
 ## Other Books
-[Rêveries](../Reveries/README.md)<br>
+ 
+• [Rêveries](../Reveries)
 
 ## License & Usage
 

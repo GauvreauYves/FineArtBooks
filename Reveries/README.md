@@ -7,7 +7,7 @@ This page contains the digital reference edition of *Rêveries*, a fine art phot
 
 ### Other Books
 
-📘 [Floralis – Fine Art Photography Book](../Floralis/README.md)
+• [Floralis](../Floralis)
 
 
 ## The 35,000-Foot Overview
