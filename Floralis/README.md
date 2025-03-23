@@ -7,7 +7,6 @@ Welcome! This page contains the digital reference edition of *Floralis*, a fine 
 
 ## Other Books
 [Rêveries](../Reveries/README.md)<br>
-[Songes](../Songes/README.md)
 
 ## License & Usage
 
