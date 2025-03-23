@@ -5,7 +5,7 @@
 This folder now contains only this documentation for reference.
 
 📦 **Download All Tools**  
-🔗 [GitHub Release – Tool Archive v1.0](https://github.com/GauvreauYves/FineArtBooks/releases/tag/tools-v1.0)
+🔗 [GitHub Release – Tool Archive v1.0](https://github.com/GauvreauYves/FineArtBooks/releases/tag/tools_v1.0)
 
 ---
 
