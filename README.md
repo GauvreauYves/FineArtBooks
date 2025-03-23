@@ -8,6 +8,21 @@ This repository contains digital reference editions and details about the fine a
 ## Digital Editions
 Each book has a digital reference edition available in its respective folder.
 
+## Tools for Color Management Workflow
+
+This repository includes a dedicated [`tools/`](tools/readme.md) folder documenting key components of the author's color management process used in the preparation of the printed and digital editions of these books.
+
+The tools support:
+
+- ICC profile creation, inspection, and conversion (color and B&W)
+- Target measurement and reproduction workflows
+- Profile recreation from XML and measurement data
+
+📦 A ZIP archive containing the relevant tools and documentation is available in the [Releases section](https://github.com/GauvreauYves/FineArtBooks/releases).
+
+These tools are used selectively depending on the final **medium**, whether screen (PDF/digital) or print (matte, glossy, Kozo, etc.), and whether the workflow is in **color** or **monochrome**.
+
+
 ## License & Usage
 
 This work is licensed under a **Creative Commons Attribution-NonCommercial-ShareAlike (CC BY-NC-SA) License**.  
