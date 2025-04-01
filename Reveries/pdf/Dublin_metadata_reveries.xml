@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://purl.org/dc/elements/1.1/ http://dublincore.org/schemas/xmls/simpledc20021212.xsd">
+
+  <dc:title xml:lang="fr">Rêveries</dc:title>
+  <dc:title xml:lang="en">Rêveries</dc:title>
+
+  <dc:creator>Yves Gauvreau</dc:creator>
+  <dc:publisher>Self-published</dc:publisher>
+  <dc:date>2025-03-31</dc:date>
+
+  <dc:type>Text</dc:type>
+  <dc:format>application/pdf</dc:format>
+
+  <dc:identifier>ISBN 978-2-9821287-4-3</dc:identifier>
+  <dcterms:identifier>DOI: 10.5281/zenodo.15120261</dcterms:identifier>
+  <dcterms:identifier>https://doi.org/10.5281/zenodo.15120261</dcterms:identifier>
+
+
+  <dc:language>fr</dc:language>
+  <dc:language>en</dc:language>
+
+  <dc:subject>Fine art photography</dc:subject>
+  <dc:subject>Black and white photography</dc:subject>
+  <dc:subject>Carbon pigment prints</dc:subject>
+  <dc:subject>Archival printing</dc:subject>
+  <dc:subject>Photographic bookbinding</dc:subject>
+  <dc:subject>Independent publishing</dc:subject>
+
+  <dc:rights>Creative Commons BY-NC-SA 4.0</dc:rights>
+  
+  <dcterms:isReferencedBy>https://gauvreauyves.github.io/FineArtBooks/Reveries/</dcterms:isReferencedBy>
+  <dcterms:isReferencedBy>https://archive.org/details/reveries-by-yves-gauvreau</dcterms:isReferencedBy>
+  <dcterms:isReferencedBy>https://archive.org/details/@yves_gauvreau/web-archive</dcterms:isReferencedBy>
+
+
+  <dc:description xml:lang="en">
+    Rêveries is a fine art photography book by Yves Gauvreau, printed using carbon pigment inks on archival Hahnemühle Photo Rag 188 gsm paper.
+
+	This hand-bound Collector’s Edition is limited to five copies, composed and assembled by the artist in Sainte-Adèle, Québec. Each copy is enclosed in a custom clamshell archival box, and features a leather cover stamped with a tool custom-made for each edition. Every element — from the paper and thread to the adhesives and packaging — is selected from the finest archival materials available.
+
+	This digital reference edition includes the full book in screen-resolution PDF format, as well as detailed technical notes and structured Dublin Core metadata to support institutional archiving, cataloging, and long-term public access.
+  </dc:description>
+
+  <dc:description xml:lang="fr">
+	Rêveries est un livre de photographie d’art réalisé par Yves Gauvreau, imprimé avec des encres pigmentaires au carbone sur papier Hahnemühle Photo Rag 188 g/m², reconnu pour ses qualités archivistiques.
+
+	Cette Édition Beaux-Arts, reliée à la main, est limitée à cinq exemplaires, composés et assemblés par l’artiste à Sainte-Adèle, Québec. Chaque exemplaire est présenté dans un coffret clamshell fabriqué sur mesure, et doté d’une couverture en cuir marquée à l’aide d’un outil conçu spécifiquement pour chaque édition. Tous les matériaux — du papier au fil, en passant par les colles et les éléments de présentation — sont choisis parmi les meilleurs disponibles pour la conservation à long terme.
+
+	Cette édition numérique de référence comprend le livre complet en format PDF (résolution écran), des notes techniques détaillées et des métadonnées structurées au format Dublin Core, afin de faciliter son archivage institutionnel, son catalogage, et l’accès du public sur le long terme.
+  </dc:description>
+
+  <dc:coverage>Sainte-Adèle, Québec</dc:coverage>
+  <dc:coverage>Canada</dc:coverage>
+
+</metadata>
