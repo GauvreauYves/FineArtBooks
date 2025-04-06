@@ -51,5 +51,11 @@ These digital editions are low-resolution references only and do not represent t
 [Read the full license details here](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 
-## Public Collections 
-📌 *These limited-edition books are designed to be archived in public collections for long-term preservation. Locations to be announced soon.*
+## Exhibition & Deposit Notes
+
+A summary of where the books and digital editions have been deposited and archived.
+
+[View full list here → ](Exhibition_and_Deposit_Notes_Reveries.md)
+
+
+
