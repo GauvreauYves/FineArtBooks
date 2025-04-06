@@ -19,8 +19,19 @@ The tools support:
 - ICC profile creation, inspection, and conversion (color and B&W)
 - Target measurement and reproduction workflows
 - Profile recreation from XML and measurement data
+- B&W ICC Profile tools
+- SSF tools to create Digital Camera Profile (DCP) profile, mpst advanced approche known today.
 
-📦 A ZIP archive containing the relevant tools and documentation is available in the [Releases section](https://github.com/GauvreauYves/FineArtBooks/releases).
+## PDF Library
+
+This forder contains a relatively large set of PDF that I acquired through the years on subject like:
+()
+
+- Color Management
+- Image Aesthetic Assessment
+- Alternative photography
+- QuadTone Rip B&W printing 
+
 
 These tools are used selectively depending on the final **medium**, whether screen (PDF/digital) or print (matte, glossy, Kozo, etc.), and whether the workflow is in **color** or **monochrome**.
 
