@@ -10,6 +10,13 @@ This repository contains digital reference editions and details about the fine a
 ## Digital Editions
 Each book has a digital reference edition available in its respective folder.
 
+## Technical Notes & Archival Reference
+
+If you're curious about how these books were made — from color management to archival printing techniques — I invite you to explore the full workflow and technical details.
+
+📄 [Download the Technical Notes PDF](Reveries/pdf/TechnicalNotes_Reveries.pdf)
+
+
 ## Tools for a Color Management Workflow
 
 This repository includes a dedicated [`tools/`](tools/readme.md) folder documenting key components of the author's color management process used in the preparation of the printed and digital editions of these books.
