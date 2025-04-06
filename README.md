@@ -25,15 +25,15 @@ The tools support:
 ## PDF Library
 
 This forder contains a relatively large set of PDF that I acquired through the years on subject like:
-()
 
 - Color Management
 - Image Aesthetic Assessment
 - Alternative photography
 - QuadTone Rip B&W printing 
 
-
 These tools are used selectively depending on the final **medium**, whether screen (PDF/digital) or print (matte, glossy, Kozo, etc.), and whether the workflow is in **color** or **monochrome**.
+
+👉 For download links, file details, and how to verify file integrity with `md5sum`, see [`library/readme.md`](library/readme.md).
 
 
 ## License & Usage
