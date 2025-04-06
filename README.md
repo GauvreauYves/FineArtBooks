@@ -10,7 +10,7 @@ This repository contains digital reference editions and details about the fine a
 ## Digital Editions
 Each book has a digital reference edition available in its respective folder.
 
-## Tools for Color Management Workflow
+## Tools for a Color Management Workflow
 
 This repository includes a dedicated [`tools/`](tools/readme.md) folder documenting key components of the author's color management process used in the preparation of the printed and digital editions of these books.
 
