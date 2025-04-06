@@ -72,7 +72,4 @@ This folder contains a collection of tools related to color management, ICC prof
 
 ---
 
-## 🔗 Access This Library
-
-📂 [View the Tools Library](https://web.archive.org/web/20250401000000/https://gauvreauyves.github.io/FineArtBooks/tools/)
 
