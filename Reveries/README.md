@@ -1,31 +1,28 @@
+## Rêveries
 
-## Rêveries 
+Here you'll find the digital reference edition of *Rêveries*, a fine art photography book.
 
+[Download the PDF](https://github.com/GauvreauYves/FineArtBooks/raw/main/Reveries/pdf/Reveries.pdf)
 
-Here you will find the digital reference edition of *Rêveries*, a fine art photography book.
+I've also included a comprehensive look into my workflow — not only for this book, but for my photographic approach as a whole.
 
-[Click here to download the PDF](https://github.com/GauvreauYves/FineArtBooks/raw/main/Reveries/pdf/Reveries.pdf)
-
-I also provide you with a comprehensive view of my workflow. not only for this book but for my photography in general.
-
-[Click here to download Technical Notes & Archival Reference](https://github.com/GauvreauYves/FineArtBooks/raw/main/Reveries/pdf/TechnicalNotes_Reveries.pdf)
+[Download Technical Notes & Archival Reference](https://github.com/GauvreauYves/FineArtBooks/raw/main/Reveries/pdf/TechnicalNotes_Reveries.pdf)
 
 ### Other Books
 
 • [Floralis](../Floralis)
 
-## Materials and archival practices
+## Materials and Archival Practices
 
 [Details here](MATERIALS.md)
 
 ## License & Usage
 
 This work is licensed under a **Creative Commons Attribution-NonCommercial-ShareAlike (CC BY-NC-SA) License**.  
-This means you are free to share and adapt this work for non-commercial purposes, as long as you credit the original author and distribute any modified versions under the same license.
+You’re free to share and adapt this material for non-commercial use, as long as you credit the original author and share any adaptations under the same license.
 
-These digital editions are low-resolution references only and do not represent the quality of the physical fine art prints I'm using for the books.
+These digital editions are low-resolution references and do not reflect the quality of the physical fine art prints used in the books.
 
 [Read the full license details here](https://creativecommons.org/licenses/by-nc-sa/4.0/)
-
 
 [Back to the main library](../README.md)
