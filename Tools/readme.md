@@ -1,4 +1,4 @@
-# 🛠️ Gauvreau Tools Archive
+# Gauvreau Tools Archive
 
 This folder contains a collection of tools related to color management, ICC profile creation, and digital photography workflows.
 
@@ -7,7 +7,7 @@ This folder contains a collection of tools related to color management, ICC prof
 
 ---
 
-## 📦 Archive Contents
+## Archive Contents
 
 ### ArgyllCMS 3.3.0 (Color Management Tools)
 
