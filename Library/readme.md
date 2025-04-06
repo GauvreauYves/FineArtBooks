@@ -9,9 +9,8 @@ They're not organized or classified (yet), but rather than letting them sit unus
 
 You can also verify the integrity of your downloads with:
 
-```bash
 md5sum -c md5-checksums.txt
-```  <!-- THIS closes the code block properly -->
+
 
 ## 📚 PDF Index
 
