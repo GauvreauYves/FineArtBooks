@@ -31,7 +31,7 @@ This folder contains a relatively large set of PDF that I acquired through the y
 - Alternative photography
 - QuadTone Rip B&W printing 
 
-👉 For download links, file details, and how to verify file integrity with `md5sum`, see [`library`](library/readme.md).
+👉 For download links, file details, and how to verify file integrity with `md5sum`, see [`library/`](library/readme.md).
 
 
 ## License & Usage
