@@ -19,7 +19,7 @@ If you're curious about how these books were made — from image capture, to col
 
 ## Tools for a Color Management Workflow
 
-This repository includes a dedicated [`tools/`](Tools/readme.md) folder documenting key components of the author's color management process used in the preparation of the printed and digital editions of these books.
+This repository includes a dedicated [`Tools/`](Tools/readme.md) folder documenting key components of the author's color management process used in the preparation of the printed and digital editions of these books.
 
 The tools support:
 
