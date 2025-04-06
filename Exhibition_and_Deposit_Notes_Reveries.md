@@ -1,4 +1,6 @@
 # Exhibition and Deposit Notes
+
+## Rêveries ##
  
 • Legal deposit completed at the **Bibliothèque et Archives nationales du Québec (BAnQ)**.  
 • Digital version deposited on **Library and Archives Canada (LAC)**.  
