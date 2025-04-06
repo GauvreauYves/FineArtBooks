@@ -14,7 +14,7 @@ I've also included a comprehensive look into my workflow — not only for this b
 
 ## Materials and Archival Practices
 
-[Details here](MATERIALS.md)
+[Details here](https://github.com/GauvreauYves/FineArtBooks/raw/main/Reveries/pdf/TechnicalNotes_Reveries.pdf)
 
 ## License & Usage
 
