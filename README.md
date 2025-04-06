@@ -31,8 +31,6 @@ This folder contains a relatively large set of PDF that I acquired through the y
 - Alternative photography
 - QuadTone Rip B&W printing 
 
-These documents are mostly about color management but you'll find a few more subject I'm interested in...
-
 👉 For download links, file details, and how to verify file integrity with `md5sum`, see [`library/readme.md`](library/readme.md).
 
 
