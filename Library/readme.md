@@ -1,6 +1,6 @@
 ## 📘 PDF Library
 
-This folder contains a large, uncurated collection of PDF documents I’ve gathered over the years — including complete books, articles, and technical references. Some are from reputable sources like Wiley, while others are rare or hard to find.
+This folder contains a large, uncurated collection of PDF documents I’ve gathered over the years (30-40+) — including complete books, articles, and technical references. Some are from reputable sources like Wiley. There’s good stuff in there. Have fun exploring. 
 
 They're not organized or classified (yet), but rather than letting them sit unused, I’m sharing them here in case they’re useful to someone else.
 
