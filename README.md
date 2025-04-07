@@ -3,7 +3,7 @@ This repository contains digital reference editions and details about the fine a
 
 ## Available Books
 
-• [Floralis](https://archive.org/download/gauvreau-floralis-archive/README.md)  
+• [Floralis](https://archive.org/download/gauvreau-floralis-archive/README.html)  
 • [Rêveries](Reveries)
 
 
