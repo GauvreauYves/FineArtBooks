@@ -3,7 +3,7 @@
 Welcome! This page contains the digital reference edition of *Floralis*, a fine art photography book.
 
 ## Download the Digital Edition
-[Click here to download the Floralis PDF](https://github.com/GauvreauYves/FineArtBooks/raw/main/Floralis/pdf/Floralis.pdf)
+[Click here to download the Floralis PDF](https://archive.org/download/gauvreau-floralis-archive/Floralis.pdf)
 
 ## Other Books
  

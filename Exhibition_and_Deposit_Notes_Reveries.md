@@ -9,10 +9,12 @@
 • Digital edition also available via:
   - [GitHub Pages](https://gauvreauyves.github.io/FineArtBooks/Reveries/)
   - [Zenodo](https://doi.org/10.5281/zenodo.15120261)
-  - [Internet Archive](https://archive.org/details/reveries-by-yves-gauvreau)
   - [Web Archive (Snapshot)](https://web.archive.org/web/20250401000000/https://gauvreauyves.github.io/FineArtBooks/Reveries/)
 
 *This information will be updated as new deposits or exhibitions are confirmed.*
+
+
+
 
 
 

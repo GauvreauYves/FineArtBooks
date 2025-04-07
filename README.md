@@ -3,7 +3,7 @@ This repository contains digital reference editions and details about the fine a
 
 ## Available Books
 
-• [Floralis](Floralis)  
+• [Floralis](https://archive.org/download/gauvreau-floralis-archive/README.md)  
 • [Rêveries](Reveries)
 
 
@@ -14,7 +14,7 @@ Each book has a digital reference edition available in its respective folder.
 
 If you're curious about how these books were made — from image capture, to color management to archival printing — I invite you to explore the full workflow and technical details.
 
-📄 [Download the Technical Notes PDF](Reveries/pdf/TechnicalNotes_Reveries.pdf)
+📄 [Download the Technical Notes PDF](https://archive.org/download/gauvreau-reveries-archive/TechnicalNotes_Reveries.pdf)
 
 
 ## Tools for a Color Management Workflow

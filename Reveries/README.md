@@ -2,11 +2,19 @@
 
 Here you'll find the digital reference edition of *Rêveries*, a fine art photography book.
 
-[Download the PDF](https://github.com/GauvreauYves/FineArtBooks/raw/main/Reveries/pdf/Reveries.pdf)
+[Download the PDF](https://archive.org/download/gauvreau-reveries-archive/Reveries.pdf)
 
 I've also included a comprehensive look into my workflow — not only for this book, but for my photographic approach as a whole.
 
-[Download Technical Notes & Archival Reference](https://github.com/GauvreauYves/FineArtBooks/raw/main/Reveries/pdf/TechnicalNotes_Reveries.pdf)
+[Download Technical Notes & Archival Reference](https://archive.org/download/gauvreau-reveries-archive/TechnicalNotes_Reveries.pdf)
+
+
+## Edition-Specific Notes
+
+Exhibition, deposit, and live documentation of variations between physical editions:
+
+[View current edition notes](https://archive.org/download/gauvreau-reveries-archive/changes.md)
+
 
 ### Other Books
 
@@ -14,7 +22,7 @@ I've also included a comprehensive look into my workflow — not only for this b
 
 ## Materials and Archival Practices
 
-[Details here](https://github.com/GauvreauYves/FineArtBooks/raw/main/Reveries/pdf/TechnicalNotes_Reveries.pdf)
+[Details here](https://archive.org/download/gauvreau-reveries-archive/TechnicalNotes_Reveries.pdf)
 
 ## License & Usage
 
