@@ -3,7 +3,7 @@ This repository contains digital reference editions and details about the fine a
 
 ## Available Books
 
-• [Floralis](https://archive.org/download/gauvreau-floralis-archive/README.html)  
+• [Floralis](Floralis)  
 • [Rêveries](Reveries)
 
 
@@ -49,13 +49,6 @@ This means you are free to share and adapt this work for non-commercial purposes
 These digital editions are low-resolution references only and do not represent the quality of the physical fine art prints.
 
 [Read the full license details here](https://creativecommons.org/licenses/by-nc-sa/4.0/)
-
-
-## Exhibition & Deposit Notes
-
-A summary of where the books and digital editions have been deposited and archived.
-
-[View full list here → ](Exhibition_and_Deposit_Notes_Reveries.md)
 
 
 
