@@ -12,7 +12,7 @@ Each book has a digital reference edition available in its respective folder.
 
 ## Technical Notes & Archival Reference
 
-If you're curious about how these books were made — from image capture, to color management to archival printing — I invite you to explore the full workflow and technical details.
+If you're curious about how these books were made — from image capture, to color management to archival printing — I invite you to explore the full workflow and technical details I've done for Rêveries.
 
 [Download the Technical Notes PDF](https://archive.org/download/gauvreau-reveries-archive/TechnicalNotes_Reveries.pdf)
 
