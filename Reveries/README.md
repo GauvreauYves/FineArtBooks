@@ -13,7 +13,7 @@ I've also included a comprehensive look into my workflow — not only for this b
 
 Exhibition, deposit, and live documentation of variations between physical editions:
 
-[View current edition notes](https://archive.org/download/gauvreau-reveries-archive/changes.md)
+[View current edition notes](https://archive.org/download/gauvreau-reveries-archive/changes.txt)
 
 
 ### Other Books

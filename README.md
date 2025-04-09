@@ -14,7 +14,7 @@ Each book has a digital reference edition available in its respective folder.
 
 If you're curious about how these books were made — from image capture, to color management to archival printing — I invite you to explore the full workflow and technical details.
 
-📄 [Download the Technical Notes PDF](https://archive.org/download/gauvreau-reveries-archive/TechnicalNotes_Reveries.pdf)
+[Download the Technical Notes PDF](https://archive.org/download/gauvreau-reveries-archive/TechnicalNotes_Reveries.pdf)
 
 
 ## Tools for a Color Management Workflow
@@ -38,7 +38,7 @@ This folder contains a relatively large set of PDF that I acquired through the y
 - Alternative photography
 - QuadTone Rip B&W printing 
 
-👉 For download links, file details, and how to verify file integrity with `md5sum`, see [`library/`](Library/readme.md).
+For download links, file details, and how to verify file integrity with `md5sum`, see [`library/`](Library/readme.md).
 
 
 ## License & Usage
