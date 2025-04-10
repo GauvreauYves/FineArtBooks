@@ -1,6 +1,9 @@
 # Fine Art Books by Yves Gauvreau
 This repository contains digital reference editions and details about the fine art books created by Yves Gauvreau.
 
+> *Le livre principal, **Rêveries**, est bilingue (français/anglais). Les documents techniques sont présentés en anglais afin d'assurer une cohérence internationale.*  
+> *The main book, **Rêveries**, is bilingual (French/English). Technical materials are provided in English to ensure international coherence.*
+
 ## Available Books
 
 • [Floralis](Floralis)  
